@@ -1,0 +1,2275 @@
+{
+  "page_1": [
+    {
+      "question": "What are the key concepts in cardiac physiology?",
+      "answer": "The key concepts in cardiac physiology include the heart's structure and its functions in blood circulation, the different phases of the cardiac cycle, the regulation of heartbeat, and the exchange of oxygen and carbon dioxide in the body."
+    },
+    {
+      "question": "What is the conduction system of the heart?",
+      "answer": "The conduction system refers to a group of specialized cardiac tissue that initiates and directs the sequence of contractions, that is responsible for keeping the heart beating in a coordinated and normal rhythm, which in turn ensures the effective pumping of blood."
+    },
+    {
+      "question": "Can you name the major parts of the heart's conduction system?",
+      "answer": "The major parts of the conduction system include the sinoatrial (SA) node, atrioventricular (AV) node, the bundle of His (or AV bundle), bundle branches, and Purkinje fibers."
+    },
+    {
+      "question": "What is the significance of oxygen and carbon dioxide exchange in cardiac physiology?",
+      "answer": "The exchange of oxygen and carbon dioxide is crucial in cardiac physiology because it ensures that all cells around the body get the oxygen they need for cellular respiration and to remove waste carbon dioxide produced by the body cells."
+    },
+    {
+      "question": "What does a diagram or chart typically depict in a study of cardiac physiology?",
+      "answer": "Diagrams or charts in cardiac physiology typically detail the structure of the heart and its major parts, depict flow of blood within the heart, illustrate the cardiac cycle phases, or represent the conduction system to show how the heart maintains its rhythmic beat."
+    }
+  ],
+  "page_2": [
+    {
+      "question": "What is the role of the SA node in the cardiac conduction system?",
+      "answer": "The SA node acts as the dominant pacemaker of the heart. It generates impulses at the highest rate of 100 per minute."
+    },
+    {
+      "question": "What is the role and characteristics of the AV node in the cardiac conduction system?",
+      "answer": "The AV node introduces a delay in conduction, which is part of its physiological function. This delay allows for time for the ventricles to fill. The conduction velocity of the AV node is the slowest at 0.04 m/s."
+    },
+    {
+      "question": "What are Purkinje fibres and what is their function?",
+      "answer": "Purkinje fibres are part of the cardiac conduction system and they have the maximum number of gap junctions with connexins. They possess the fastest conduction velocity of 4 m/s."
+    },
+    {
+      "question": "Can you describe the pathway of cardiac conduction?",
+      "answer": "The cardiac conduction pathway starts in the SA node, then proceeds to the atria, AV node, bundle of His, right and left bundle branches, Purkinje fibers, and finally to the ventricles. The left bundle branch further divides into the left anterior and posterior fascicles."
+    },
+    {
+      "question": "What are the pacemaker rates in different sections of the heart?",
+      "answer": "The pacemaker rates are highest in the SA node, followed by the AV node, and then the bundle of His/Purkinje fibres/ventricles."
+    }
+  ],
+  "page_3": [
+    {
+      "question": "What is the formula for Stroke Volume (SV)?",
+      "answer": "The formula for Stroke Volume (SV) is EDV - ESV, where EDV is End Diastolic Volume and ESV is End Systolic Volume."
+    },
+    {
+      "question": "What does the term 'DIASTASIS' refer to in cardiac physiology?",
+      "answer": "DIASTASIS in cardiac physiology refers to the period of slow filling of the heart during the cardiac cycle."
+    },
+    {
+      "question": "What is the meaning of Ejection Fraction (E.F) and how is it calculated?",
+      "answer": "Ejection Fraction (E.F.) is a measurement of the percentage of blood leaving your heart each time it contracts. It can be calculated as (Stroke Volume / End Diastolic Volume) * 100%."
+    },
+    {
+      "question": "What happens when the aortic valve opens and closes?",
+      "answer": "When the aortic valve opens, blood flows from the left ventricle into the aorta and then to the rest of the body. When the aortic valve closes, it prevents the backflow of blood from the aorta into the heart."
+    },
+    {
+      "question": "What does the protodiasto IVR refer to in cardiac physiology?",
+      "answer": "In cardiac physiology, 'Protodiasto IVR' refers to the initial phase of ventricular diastole when the inflow of blood from atria to ventricles is rapid as a result of the pressure difference between atria and ventricles."
+    }
+  ],
+  "page_4": [
+    {
+      "question": "What is the cardiac outfit?",
+      "answer": "The cardiac outfit is calculation used in cardiac physiology that combines heart rate (HR) and stroke volume (SV). It's used to measure the cardiac output (CO), which is the volume of blood pumped by the heart per unit of time, usually measured in liters per minute."
+    },
+    {
+      "question": "What does autoregulation refer to in the context of blood flow?",
+      "answer": "Autoregulation refers to how the blood flow to an organ remains constant over a wide range of perfusion pressures. Various factors determine autoregulation, including oxygen levels, local metabolites (vasodilatory & vasoconstrictory), myogenic and tubuloglomerular feedback."
+    },
+    {
+      "question": "What is the role of catecholamines and positive inotropes on the heart's contractility?",
+      "answer": "Catecholamines and positive inotropes like dobutamine, milrinone and digoxin increase the heart's contractility. This means they make the heart beat with more force, thus pumping more blood out with each stroke."
+    },
+    {
+      "question": "What is the effect of standing on heart rate and cardiac output?",
+      "answer": "On immediate standing, there's a transient fall in blood pressure due to gravity. To compensate, baroreflex mechanisms kick in to increase heart rate and maintain cardiac output."
+    },
+    {
+      "question": "What is the cardiac index ratio?",
+      "answer": "The cardiac index ratio is a calculation of the cardiac output divided by the body surface area (BSA). This measurement is used to assess heart function and the normal value is typically between 2.8-3.2 L/min/m\u00b2."
+    }
+  ],
+  "page_5": [
+    {
+      "question": "What determines the fluid movement through capillary membranes?",
+      "answer": "Starling forces play a key role in determining fluid movement through capillary membranes. It involves the capillary hydrostatic pressure which pushes fluid out of the capillary, the interstitial hydrostatic pressure which pushes fluid back into the capillary, and the plasma oncotic pressure that pulls fluid into the capillary."
+    },
+    {
+      "question": "What can cause an excess fluid outflow into the interstitium causing edema?",
+      "answer": "Edema or excess fluid outflow into the interstitium can be caused by increase in the capillary pressure, increase in capillary permeability due to factors like toxins, infections, or burns, increase in interstitial fluid oncotic pressure due to blockage of lymphatic channels, or decrease in plasma proteins due to conditions like nephrotic syndrome, liver failure, or protein malnutrition."
+    },
+    {
+      "question": "What is the main function of arterioles and veins in blood circulation?",
+      "answer": "Arterioles primarily regulate the blood flow by controlling the resistance and contribute to the maximum surface area of the total blood in capillaries. Veins, on the other hand, serve as the major storage of blood, with veins storing 65% of total blood."
+    },
+    {
+      "question": "How does the volumetric flow rate (Q) relate to flow velocity (v) and cross-sectional area (A)?",
+      "answer": "The volumetric flow rate (Q) is the product of flow velocity (v) and the cross-sectional area (A). In other words, Q = v x A. This is an essential concept in understanding the cardiac physiology."
+    },
+    {
+      "question": "What is the Poiseuille's Hagen Law?",
+      "answer": "The Poiseuille's Hagen Law states that the resistance to laminar flow of a fluid in a narrow tube is directly proportional to the viscosity and the length of the tube but inversely proportional to the fourth power of its radius. It helps us to understand the flow behavior of blood in the vessels, which could be crucial in certain conditions like polycythemia or anemia."
+    }
+  ],
+  "page_6": [
+    {
+      "question": "What is the definition of Arterial Blood Pressure (BP)?",
+      "answer": "It is the lateral pressure exerted by the column of blood on vessel wall."
+    },
+    {
+      "question": "What is Pulse Pressure (PP)?",
+      "answer": "It is the difference between systolic and diastolic blood pressures (SBP - DBP)."
+    },
+    {
+      "question": "How is mean Arterial Pressure (MAP) calculated?",
+      "answer": "MAP is calculated by the formula MAP = DBP (diastolic blood pressure) + 1/3 Pulse Pressure (PP)."
+    },
+    {
+      "question": "What are the normal values for mean arterial pressure?",
+      "answer": "The normal mean arterial pressure is between 93 - 100 mm Hg."
+    },
+    {
+      "question": "What factors can lead to a false high blood pressure reading?",
+      "answer": "A small size cuff, thick calcified vessels, and obesity can lead to a false high blood pressure reading."
+    }
+  ],
+  "page_7": [
+    {
+      "question": "What is the role of baroreceptors in the carotid sinus?",
+      "answer": "Baroreceptors in the carotid sinus play a key role in the regulation of blood pressure. They respond to changes in arterial wall stretch or distension by increasing or decreasing the firing rate of action potentials. This information is then sent to the brain, which adjusts heart rate and vessel tone to regulate blood pressure."
+    },
+    {
+      "question": "What disorders might lead to occlusion of the carotid arteries?",
+      "answer": "Conditions such as atherosclerosis, carotid artery disease, and thrombosis can lead to occlusion of the carotid arteries."
+    },
+    {
+      "question": "What is orthostatic hypotension?",
+      "answer": "Orthostatic hypotension, also known as postural hypotension, is a form of low blood pressure that happens when you stand up from sitting or lying down. It can make you feel dizzy or lightheaded, and fainting may occur."
+    },
+    {
+      "question": "What role do chemoreceptors play in blood pressure regulation?",
+      "answer": "Chemoreceptors act as a secondary line of control for blood pressure regulation. The peripheral chemoreceptors in the carotid and aortic bodies respond to changes in the acidity of blood (detected as changes in blood pH, oxygen, or carbon dioxide) to adjust blood pressure."
+    },
+    {
+      "question": "What is the function of vasopressin in blood pressure regulation?",
+      "answer": "Vasopressin, also known as antidiuretic hormone, is a potent vasoconstrictor, which means it causes blood vessels to constrict or narrow. This in turn helps increase blood pressure."
+    }
+  ],
+  "page_8": [
+    {
+      "question": "What does 'symptomatology' mean in the context of medical science?",
+      "answer": "Symptomatology refers to the identification, study, and interpretation of symptoms in diagnosing disease."
+    },
+    {
+      "question": "What is cardiac physiology?",
+      "answer": "Cardiac physiology is the study of the heart's function, its processes, and its interaction with the rest of the body."
+    },
+    {
+      "question": "What is the role of the conduction system in cardiac physiology?",
+      "answer": "The conduction system is responsible for controlling the heart rate, ensuring that heart contractions happen in a coordinated way to effectively pump blood to the rest of the body."
+    },
+    {
+      "question": "Can you briefly explain the details of the conduction system?",
+      "answer": "The conduction system includes the sinoatrial (SA) node, atrioventricular (AV) node, bundle of His, and Purkinje fibers. The SA node generates electrical impulses that control heart rate, these impulses travel to the AV node, then to the bundle of His and ultimately to the Purkinje fibers, resulting in coordinated heart contractions."
+    },
+    {
+      "question": "What is the importance of diagrams or charts in understanding cardiac physiology and symptomatology?",
+      "answer": "Diagrams or charts can help visualize complex processes, such as the pathway of electrical impulses in the heart, or data, such as patterns in symptoms of heart disease. This can increase understanding and recall of information."
+    }
+  ],
+  "page_9": [
+    {
+      "question": "What are the 5 Cardinal Symptoms of CUS disease?",
+      "answer": "Breathlessness, Syncope, Chest Pain/Angina, Palpitation, and Edema"
+    },
+    {
+      "question": "What is the BEST TEST in the ER for Cardiac issues?",
+      "answer": "SPRO-BNP (Brain natriuretic Peptide Secreted by ventricular Cardiomyocyte in response to Stretch / Strain)"
+    },
+    {
+      "question": "What is the most common cause of chest pain in the Emergency Room?",
+      "answer": "Heart failure or Infective Exacerbation of COPD"
+    },
+    {
+      "question": "What are the defining features of Angina?",
+      "answer": "Angina is defined by chest pain having 2/3 of the following features: SITE, CHARACTER, RADIATION. It occurs in the pre-cordial or substernal area and can have a constricting or heavy character. The pain may radiate along the ulnar border or to the epigastrium. It typically worsens with exertion and is relieved with rest."
+    },
+    {
+      "question": "What are common causes of Angina?",
+      "answer": "Common causes of Angina include Coronary Artery Disease (CAD), Coronary Artery Spasm, or something causing an obstruction which increases the demand on the heart such as ventricular hypertrophy, hypertension, heart disease, cardiomyopathies or Valvular Heart Disease (e.g., Aortic Stenosis)."
+    }
+  ],
+  "page_10": [
+    {
+      "question": "What is Bringmetal's Angina?",
+      "answer": "Bringmetal's Angina, also known as Vaso spactic or Variant Angina, is an angina caused by coronary vasospasm. It's often idiopathic and is provoked by vasoconstrictive triggers like stress, smoking or recreational drugs like cocaine or amphetamine. It's episodic and each episode lasts for 5-15 mins, usually occurring at midnight."
+    },
+    {
+      "question": "How are symptoms of Bringmetal's Angina presented on an ECG?",
+      "answer": "In symptomatic cases, during episodes ECG may show transient ST changes, mimicking the signs of an infarct. But in asymptomatic cases, the ECG might be normal."
+    },
+    {
+      "question": "What is the approach to palpitation?",
+      "answer": "Palpitation refers to an unpleasant awareness of one's own heartbeat and can be caused by rate or rhythm disorders. Common causes include arrhythmias, exercise, pregnancy, fever, thyrotoxicosis and heart failure."
+    },
+    {
+      "question": "What are the different levels of edema as per the 4 Grades of Edema?",
+      "answer": "Grade 1 refers to edema upto the ankles, grade 2 refers to edema upto the knees, grade 3 refers to edema upto the hips, and the severe grade represents edema well above the hips."
+    },
+    {
+      "question": "What is the typical presentation of renal related edema?",
+      "answer": "Renal related edema typically presents as periorbital edema, often worst in the morning."
+    }
+  ],
+  "page_11": [
+    {
+      "question": "What are the assessment methods in suspected syncope cases?",
+      "answer": "Pulse and apex beat examination, auscultation for heart sounds and murmurs, electrical dys synchrony test, ECG, and colored Doppler ECHO."
+    },
+    {
+      "question": "What is the best screening method for arrhythmias?",
+      "answer": "ECG is the gold standard for screening arrhythmias."
+    },
+    {
+      "question": "What indications may be observed during a syncope episode?",
+      "answer": "Blackout/Tunnel Vision, Physical weakness, and clear sensorium might be observed during a syncope episode."
+    },
+    {
+      "question": "What are some symptoms post a syncope episode?",
+      "answer": "Symptoms that might be observed post syncope episode are a feeling of confusion, headache, and high intensity."
+    },
+    {
+      "question": "What are some structural cardiac disorders?",
+      "answer": "Some structural cardiac disorders include congenital disorders, valvular defects, cardiomyopathies, pericardial disorders and heart failure."
+    }
+  ],
+  "page_12": [],
+  "page_13": [
+    {
+      "question": "What is the normal pulse rate?",
+      "answer": "The normal pulse rate is between 60-100 beats per minute."
+    },
+    {
+      "question": "What condition is signified by a pulse rate of less than 60 beats per minute?",
+      "answer": "A pulse rate less than 60 beats per minute signifies bradycardia."
+    },
+    {
+      "question": "What could cause bradycardia?",
+      "answer": "Common causes of bradycardia include sleep, being an athlete, certain medications, and conditions like hypothyroidism."
+    },
+    {
+      "question": "What condition is signified by a pulse rate of greater than 100 beats per minute?",
+      "answer": "A pulse rate greater than 100 beats per minute indicates tachycardia."
+    },
+    {
+      "question": "What could cause tachycardia?",
+      "answer": "Tachycardia could be caused by exercise, anxiety, certain conditions like hyperthyroidism, fever, and use of certain drugs."
+    }
+  ],
+  "page_14": [
+    {
+      "question": "What is the normal range for Pulse Pressure?",
+      "answer": "30-60 mm Hg"
+    },
+    {
+      "question": "What does a thready pulse indicate?",
+      "answer": "Central Perfusion Pressure (CPP) less than 30 mmHg, potentially indicating shock"
+    },
+    {
+      "question": "What effect does increased Cardiogenic SNS tone have?",
+      "answer": "Peripheral Vaso Constriction"
+    },
+    {
+      "question": "What condition may cause the Artery to not be palpable?",
+      "answer": "Arteriosclerosis or Atherosclerosis"
+    },
+    {
+      "question": "What happens if there is an obstruction in arteriovenous (AV) fistula?",
+      "answer": "If there is an obstruction in AV fistula, it may cause a decrease in distal pulses and could cause an asymmetry in the flow of blood"
+    }
+  ],
+  "page_15": [
+    {
+      "question": "What is the carotid pulse?",
+      "answer": "The carotid pulse is a pulse taken at the carotid artery where the blood is being supplied to the brain and face. It can reflect the events occurring in the left ventricle of the heart during a cardiac cycle."
+    },
+    {
+      "question": "What is a Dicrotic wave?",
+      "answer": "A dicrotic wave reflects the oscillation of blood in the aorta due to the closure of the aortic valve, which is typically observed after the systolic peak in a pulse tracing."
+    },
+    {
+      "question": "What is a Dicrotic notch?",
+      "answer": "A dicrotic notch is a small downward deflection in the aortic pressure pulse during the phase of rapid ejection. It represents the closure of the aortic valve at the end of systole and the beginning of diastole."
+    },
+    {
+      "question": "What does low cardiac output state mean?",
+      "answer": "Low cardiac output state refers to a medical condition where the heart is pumping an insufficient amount of blood to meet the body's needs. This could be due to heart failure or conditions like severe aortic stenosis."
+    },
+    {
+      "question": "What is Anacrotic pulse?",
+      "answer": "Anacrotic pulse is a type of arterial pulse waveform characterized by a slower rise to the systolic peak. It is typically associated with conditions such as severe aortic stenosis, where the blood flow to the aorta is obstructed."
+    }
+  ],
+  "page_16": [
+    {
+      "question": "What does Pulsus autemans refer to?",
+      "answer": "Pulsus autemans refers to the regular alteration of pulse amplitudes."
+    },
+    {
+      "question": "What is a potential cause of left ventricular systolic failure?",
+      "answer": "A potential cause of left ventricular systolic failure is improper blood filling during inspiration."
+    },
+    {
+      "question": "What can cause deep inspiratory effort?",
+      "answer": "Conditions such as Obstructive Pulmonary Disease (COPD), asthma, obesity and a Pulmonary Embolism can cause deep inspiratory effort."
+    },
+    {
+      "question": "What causes the blood to pool in the pulmonary veins?",
+      "answer": "The blood pools in the pulmonary veins if the right ventricular wall cannot dilate well."
+    },
+    {
+      "question": "What conditions can cause failure of the relaxation of the stiff pericardium and stiff myocardium?",
+      "answer": "Conditions such as Tamponade (Pericardial effusion compressing right ventricle) and Constrictive Pericarditis can cause failure of relaxation of the stiff pericardium and stiff myocardium."
+    }
+  ],
+  "page_17": [
+    {
+      "question": "Why is IJV preferred over EJV?",
+      "answer": "IJV (Internal Jugular Vein) is preferred over EJV (External Jugular Vein) because it is in straight line with the right atrium. Moreover, EJV contains valves while IJV does not and EJV is more innervated by the sympathetic system."
+    },
+    {
+      "question": "What happens during a common a-wave?",
+      "answer": "Common a-wave occurs during systole. Here the right atrium contracts against a closed tricuspid valve."
+    },
+    {
+      "question": "What can cause an absent a wave?",
+      "answer": "An absent a wave can be caused by atrial fibrillation, a condition where the atrium's fibers contract irregularly or too quickly, preventing normal blood flow into ventricles."
+    },
+    {
+      "question": "What does the JUP measurement entail in jugular venous pressure measurement?",
+      "answer": "JUP measurement entails taking the distance from the sternal angle to the upper edge of the jugular venous pulse, noted as 'x + 5m' in the content."
+    },
+    {
+      "question": "What is the result when two independent pacemakers come together?",
+      "answer": "When two independent pacemakers, such as the Sinoatrial Node (SAN) and the Atrioventricular Node (AVN), come together, it leads to a condition called Complete AV Block where the signals from the higher center (SAN) fail to pass on to the lower center (AVN), leading to an occasional Cannon a-wave."
+    }
+  ],
+  "page_18": [
+    {
+      "question": "What can cause X-descent 'deep' in R.A. pressure?",
+      "answer": "Vigorous R.V. contractions can cause a 'deep' X-descent in R.A. pressure."
+    },
+    {
+      "question": "What can lead to tricuspid regurgitation?",
+      "answer": "A failure of the R.A. to empty during atrial relaxation/systole can lead to tricuspid regurgitation."
+    },
+    {
+      "question": "What are the causes of severe JUP (Jugular Venous Pressure)?",
+      "answer": "Severe JUP can be caused by conditions such as Tamponade, RUF (Right Ventricular Failure), and I.S (ischemic stroke)."
+    },
+    {
+      "question": "What does a 'large' V-wave signify in the conduction system?",
+      "answer": "A 'large' V-wave might signal Superior Vena Cava (SVC) obstruction."
+    },
+    {
+      "question": "What can cause a 'fast' Y-descent?",
+      "answer": "A 'fast' Y-descent can occur due to causes of large I waves."
+    }
+  ],
+  "page_19": [
+    {
+      "question": "What does APEX2\u24c7 stands for in medical context?",
+      "answer": "In medical context, APEX2\u24c7 refers to the procedure of palpating the left ventricle apical area. It's a method used in physical examinations to assess the state of the heart."
+    },
+    {
+      "question": "What is a possible cause for a Hyperdynamic Apex in cardiac examination?",
+      "answer": "High Cardiac Output (C.O.) states, Aortic Stenosis, Severe Systemic Hypertension and Dilated Cardiomyopathy (dCMP) can cause a hyperdynamic apex."
+    },
+    {
+      "question": "What does it mean when both Heart's Apex and necrotic area are palpable?",
+      "answer": "When both the apex and a necrotic area of the heart are palpable, it may indicate the presence of a Left Ventricle (L.V.) Aneurysm."
+    },
+    {
+      "question": "What is a 'Sustained/Heaving Apex'?",
+      "answer": "A sustained or heaving apex is when the apex of the heart is palpable for the full duration of systole. It is often associated with conditions that increase the workload of the heart such as hypertension and aortic stenosis."
+    },
+    {
+      "question": "What are few conditions wherein the heart's Apex may be non-palpable?",
+      "answer": "Conditions where the heart's Apex may be non-palpable include Pericardial diseases, Dextrocardia, Emphysema, pleural effusion or due to obesity, in which fat tissue may obscure the Apex."
+    }
+  ],
+  "page_20": [
+    {
+      "question": "What sound is produced due to the closure of Hirt. valves in the heart?",
+      "answer": "A sound is produced mainly due to the closure of Hirt. valves in the heart, which can be heard with auscultation."
+    },
+    {
+      "question": "Where is the Pulmonary valve auscultated?",
+      "answer": "The Pulmonary valve is auscultated at the left second intercostal space, at the upper sternal border."
+    },
+    {
+      "question": "Where is the Mitral valve auscultated?",
+      "answer": "The Mitral valve is auscultated at the left fifth intercostal space, just medial to mid clavicular line."
+    },
+    {
+      "question": "What kind of murmur might you hear with an Aortic Stenosis?",
+      "answer": "With Aortic Stenosis, you might hear a Systolic Murmur."
+    },
+    {
+      "question": "What kind of murmur might you hear with Mitral Stenosis?",
+      "answer": "With Mitral Stenosis, you might hear a Diastolic Murmur."
+    }
+  ],
+  "page_21": [
+    {
+      "question": "Where is the aortic closure heard the best?",
+      "answer": "The aortic closure is heard best just right to the sternum at the 2nd Ics."
+    },
+    {
+      "question": "What happens to the timing of the Aortic and Pulmonic Valves during Pulmonary Ejection time?",
+      "answer": "During Pulmonary Ejection time, the Aortic Valve closes earlier than the Pulmonic Valve due to the left ventricle having less blood than the right ventricle."
+    },
+    {
+      "question": "What pitch is best used for auscultation and why?",
+      "answer": "A high pitch is best used for auscultation as the left ventricle is more muscular and thus, to make the same volume of blood, it needs less time."
+    },
+    {
+      "question": "What happens to the right and left heart blood supply during inspiration and expiration?",
+      "answer": "During inspiration, the blood supply in the right ventricle increases and the blood supply in the left ventricle decreases. During expiration, the blood supply in the right ventricle decreases and left ventricle's blood supply increases."
+    },
+    {
+      "question": "What happens in the split interval during expiration and what does it result in?",
+      "answer": "During expiration, the left ventricle's ejection time increases while the right ventricle's ejection time decreases. This results in a split interval or absence of split."
+    }
+  ],
+  "page_22": [
+    {
+      "question": "What happens when Aortic Valve leaflets do not hit each other?",
+      "answer": "It results in a Single A\u2082 sound."
+    },
+    {
+      "question": "What is the result of severely calcified Aortic Valve leaflets?",
+      "answer": "Severely calcified Aortic Valve leaflets, a condition known as Severe Aortic Stenosis (A.S.), produces a sound greater than Single A\u2082."
+    },
+    {
+      "question": "What is the result of severely calcified Pulmonary Valve leaflets?",
+      "answer": "Severely calcified Pulmonary Valve leaflets, a condition known as Severe Pulmonary Stenosis (P.S.), produces a sound equal to 10 Single A."
+    },
+    {
+      "question": "What happens when Pulmonary Valve leaflets do not hit each other?",
+      "answer": "It results in a Single A\u2082 sound."
+    },
+    {
+      "question": "What diseases are categorized under Congenital Heart diseases?",
+      "answer": "Congenital Heart diseases include TOF, Tricuspid Atresia, Pulmonary Atresia, Eisenmenger syndrome, and Truncus Arteriosus."
+    }
+  ],
+  "page_23": [],
+  "page_24": [
+    {
+      "question": "What two criteria need to be fulfilled for a heart murmur to occur?",
+      "answer": "The two criteria for a heart murmur to occur are an abnormality in the pressure gradient and a defect such as stenosis or regurgitation."
+    },
+    {
+      "question": "What is a systolic murmur and when does it occur?",
+      "answer": "A systolic murmur is a sound that occurs during the ejection phase of the heart cycle. It may be present throughout systole (pan or holo systolic murmur), at the peak of systole (cresendo-decresendo) or only in the early or late part of systole."
+    },
+    {
+      "question": "What are the potential causes of a systolic murmur?",
+      "answer": "Systolic murmurs can be caused by turbulence in blood flow due to various defects like stenosis (functional or structural), septal defects, arterial pressure abnormalities like aneurysms, and regurgitation disease conditions like chronic T.R. or chronic M.R."
+    },
+    {
+      "question": "What occurs with a chronic T.R. or M.R. in a patient?",
+      "answer": "In a case of chronic tricuspid regurgitation (T.R.) or mitral regurgitation (M.R.), the left atria become dilated and its pressure remains lower than usual throughout systole, even when it receives blood."
+    },
+    {
+      "question": "What is a functional stenosis and when is it seen?",
+      "answer": "Functional stenosis is a condition where the heart valve does not physically narrow but its opening is reduced due to other factors affecting heart function. It is often seen in high cardiac output states."
+    }
+  ],
+  "page_25": [
+    {
+      "question": "What is an early diastolic murmur?",
+      "answer": "An early diastolic murmur is a heart sound that occurs at the onset of the diastole phase in the cardiac cycle. It shows a decrescendo pattern, meaning it gradually decreases in volume."
+    },
+    {
+      "question": "What is a mid-diastolic murmur?",
+      "answer": "A mid-diastolic murmur is a heart sound that occurs during the passive filling phase of the diastole. This means it occurs when the heart is in the middle of its relaxation stage, which is after the heart contracts to pump blood out."
+    },
+    {
+      "question": "What is a continuous murmur?",
+      "answer": "A continuous murmur is a heart sound that occupies both systolic and diastolic phases. It peaks at any cause, but is not caused by valve problems. It often originates from an abnormal communication between an artery and a vein."
+    },
+    {
+      "question": "What is the Graham Steel's murmur?",
+      "answer": "The Graham Steel's murmur is a type of a diastolic murmur that occurs due to incompetence or stenosis of the pulmonary valve of the heart."
+    },
+    {
+      "question": "What is a late diastolic murmur?",
+      "answer": "A late diastolic murmur is a heart sound that only occurs during the active filling phase or late diastole. This can be caused by conditions like Large Left Atrium (LA) or Myxoma (a benign tumor in the heart that disturbs the blood flow)."
+    }
+  ],
+  "page_26": [
+    {
+      "question": "What are the effects of blood flow that can cause a heart murmur?",
+      "answer": "The main effects include: increased blood flow in the right heart during respiration phases, certain health conditions like mitral valve prolapse and hypertrophic cardiomyopathy, and changes in direction of blood flow due to pressure gradient effects. Vasoconstrictors, bilateral arm compression, sustained hand grip, and sustained squatting can also result in murmurs."
+    },
+    {
+      "question": "What does MVP and HOCM stand for?",
+      "answer": "MVP stands for Mitral Valve Prolapse. HOCM stands for Hypertrophic Obstructive Cardiomyopathy."
+    },
+    {
+      "question": "What happens to heart murmurs during inspiration?",
+      "answer": "During inspiration, blood flow increases in the right heart which can enhance some heart murmurs."
+    },
+    {
+      "question": "What factors affect the aortic pressure?",
+      "answer": "The aortic pressure can be affected by vasoconstrictors, bilateral arm compression, sustained hand grip, and sustained squatting."
+    },
+    {
+      "question": "What happens to heart murmurs after few cardiac cycles?",
+      "answer": "Heart murmurs typically can change or increase after few cardiac cycles due to changes in blood flow or ventricular filling."
+    }
+  ],
+  "page_27": [],
+  "page_28": [
+    {
+      "question": "What is the standard speed of the ECG paper?",
+      "answer": "The standard speed of the ECG paper is 25mm/Sec."
+    },
+    {
+      "question": "What is the principle of ECG?",
+      "answer": "The principle of ECG is Galvanometer."
+    },
+    {
+      "question": "What does SAN depolarisation represent in ECG?",
+      "answer": "SAN depolarisation in an ECG represents the sinus node's electrical activity, which initiates the heartbeat."
+    },
+    {
+      "question": "What does the height and width of the ECG paper represent?",
+      "answer": "The height and width of the ECG paper are both equal to 5mm. This is the standard measurement used in reading an ECG."
+    },
+    {
+      "question": "What does HR represent in ECG?",
+      "answer": "In ECG, HR stands for Heart Rate. It is calculated as the number of QRS Complexes in 60 seconds."
+    }
+  ],
+  "page_29": [
+    {
+      "question": "What is the Cardiac Vector?",
+      "answer": "The Cardiac Vector is a 3-D Vector. The body acts as a volume conductor between Create AV with different points on body."
+    },
+    {
+      "question": "What are the vertical/frontal plane leads?",
+      "answer": "Vertical/frontal plane leads refer to the six leads detected by limb loads in the vertical or frontal plane of the body."
+    },
+    {
+      "question": "What do the 6 chest leads in cardiac vector represent?",
+      "answer": "The 6 chest leads in the Cardiac Vector representing different points of electric communication, connected to two different limbs and at a specific point on the chest."
+    },
+    {
+      "question": "Which artery is most commonly affected?",
+      "answer": "The Left Anterior Descending (LAD) artery is the most commonly affected. It is so called due to its potential to cause a 'widow maker' heart attack."
+    },
+    {
+      "question": "What do the ECG Leads represent?",
+      "answer": "ECG leads represent various cardiac physiological conditions and indicate different surfaces of the heart which include inferior surfaces, septal leads, anterior surfaces and lateral surfaces indicating different coronary artery territories."
+    }
+  ],
+  "page_30": [
+    {
+      "question": "What does the P-wave in an ECG represent?",
+      "answer": "The P-wave in an ECG represents the depolarization of the atria, as determined by the atrial activity. This is the first part of the heart's electrical activity that is seen on the ECG."
+    },
+    {
+      "question": "What is the width of P-wave considered normal in an ECG?",
+      "answer": "In an ECG, a P-wave width less than 2.5mm is considered normal."
+    },
+    {
+      "question": "What irregularities can be noticed in ECG if there's Atrial Fibrillation?",
+      "answer": "In case of Atrial Fibrillation, fibrillatory waves can be noticed in the ECG."
+    },
+    {
+      "question": "What is the Prolonged PR interval in an ECG indicative of?",
+      "answer": "A Prolonged PR interval in an ECG which is greater than 0.2 Sec is usually indicative of an AV Block."
+    },
+    {
+      "question": "What causes the L.A. Enlargement as indicated by an ECG?",
+      "answer": "L.A. Enlargement in an ECG can be caused by mitral valve lesions and it is indicated by a width greater than 2.5mm."
+    }
+  ],
+  "page_31": [
+    {
+      "question": "What is the definition of a narrow QRS complex?",
+      "answer": "A narrow QRS complex is defined as a complex with a width from 2 to less than 3mm."
+    },
+    {
+      "question": "What does a wide QRS complex indicate?",
+      "answer": "A wide QRS complex indicates that both ventricles don't depolarize at the same time. This could be due to late depolarization of the left ventricle or early depolarization of the right ventricle."
+    },
+    {
+      "question": "What is the sequence of depolarization in terms of ventricular walls?",
+      "answer": "In terms of ventricular walls, the sequence of depolarization is from the endocardium to the epicardium."
+    },
+    {
+      "question": "What conditions can lead to a loud ejection systolic murmur?",
+      "answer": "Conditions that can lead to a loud ejection systolic murmur include aortic stenosis, systemic hypertension, and pulmonary embolism."
+    },
+    {
+      "question": "What does it mean if there is a right axis deviation?",
+      "answer": "A right axis deviation can result from various conditions including dextrocardia, incorrect lead placement, or certain heart diseases. It indicates that the resultant vector of ventricular depolarization in the frontal plane is deviated to the right."
+    }
+  ],
+  "page_32": [
+    {
+      "question": "What is the Osborn Wave and what causes it?",
+      "answer": "The Osborn wave is an abnormality in ECG which manifests as a J wave. Its causes include hypothermia, hypothyroidism, and subarachnoid hemorrhage."
+    },
+    {
+      "question": "What is an Epsilon wave and what is it indicative of?",
+      "answer": "An epsilon wave is an abnormal wave in an ECG characterized by a double slurring at 7pt within the ST segment. It is indicative of arrhythmogenic right ventricular dysplasia."
+    },
+    {
+      "question": "What are some conditions that can cause ST segment elevation?",
+      "answer": "Conditions that can cause ST segment elevation include acute myocardial infarction (M.I), inflammation such as pericarditis and myocarditis, tumor of the heart, and pulmonary embolism."
+    },
+    {
+      "question": "What conditions might cause ST segment depression?",
+      "answer": "Possible conditions that might cause ST segment depression include ischemic heart diseases such as subendocardial M.I. and classical angina, hypokalemia, and effects of certain drugs such as Digoxin."
+    },
+    {
+      "question": "What is the Brugada Syndrome?",
+      "answer": "Brugada syndrome is a genetic disorder that is characterized by abnormal ECG patterns and an increased risk of sudden cardiac death. It's often marked on an ECG by the presence of a distinct pattern known as the Brugada sign, which includes cloved ST elevation and inverted T wave."
+    }
+  ],
+  "page_33": [
+    {
+      "question": "What does a prolonged Q-T interval represent?",
+      "answer": "A prolonged Q-T interval represents full cardiac depolarization and repolarization activity."
+    },
+    {
+      "question": "What can cause an abnormality in the F-wave?",
+      "answer": "F-wave abnormalities can be caused by a repolarisation abnormality, such as a tall T-wave which is in the same direction as the R-S wave, and this makes the heart more prone to arrhythmias."
+    },
+    {
+      "question": "What does QT represent in cardiac conduction and what factors can influence it?",
+      "answer": "The QT interval, measured from the start of the QRS complex to the end of the T wave, represents a complete cycle of depolarization and repolarization of the ventricles. Factors that can influence the QT interval include reverse rate (e.g., during sleep), electrolyte balance (particularly calcium and magnesium), and certain drugs, including antiarrhythmics, antibiotics, antifungals, antivirals, and tricyclic antidepressants."
+    },
+    {
+      "question": "Which conditions are associated with a shortened QT interval?",
+      "answer": "Conditions associated with a shortened QT interval include hyperthermia and hypercalcemia."
+    },
+    {
+      "question": "What is Wellen's T-wave and when is it seen?",
+      "answer": "Wellen's T-wave is a specific EKG pattern indicating a critical stenosis (narrowing) of the left anterior descending coronary artery, which can cause unstable angina. This pattern is typically seen in leads V2 and V3 on the EKG."
+    }
+  ],
+  "page_34": [
+    {
+      "question": "What is a common condition associated with SAN origin disorders?",
+      "answer": "Sinus Brady cordia is a common condition associated with SAN origin disorders. It is characterized by a heart rate of 1500."
+    },
+    {
+      "question": "How is a 1\u00b0 AV Block characterized?",
+      "answer": "A 1\u00b0 AV Block is characterized by slow AV node conduction. It can result in an alteration in the OP.R and a common a-wave. The usual heart rate associated with this block is 40-60."
+    },
+    {
+      "question": "What happens when the SAN undergoes infarction?",
+      "answer": "When the SAN undergoes infarction, it loses its automaticity and cannot act as a pacemaker. This can results in a jumbled rhythm, known as an AUN, becoming the new pacemaker."
+    },
+    {
+      "question": "What is MOBITZ Type - 2\u00b0 AVB?",
+      "answer": "MOBITZ Type - 2\u00b0 AVB causes intermittent failure of conduction from the atrium to the ventricle. Not all atrial impulses are transferred to the ventricle and the rate of depolarization depends on the conducted impulse rather than generating its own pacemaker."
+    },
+    {
+      "question": "What is the Wenkebach Phenomenon?",
+      "answer": "The Wenkebach Phenomenon involves the AVN's property that when a slow impulse passes through it, it makes it more refractory to the next impulse. In AVNBPR interval impulses, there is a progressive prolongation of the PR interval with each passing impulse until an impulse can't reach the ventricle. Despite this instability, patients typically remain hemodynamically stable and do not require a pacemaker unless they have taken Digoxin which should then be withdrawn."
+    }
+  ],
+  "page_35": [
+    {
+      "question": "In MOBITZ Type II, what is the condition of the PR interval?",
+      "answer": "In MOBITZ Type II, the PR interval is fixed."
+    },
+    {
+      "question": "What happens in the ischemia of AUN during the MOBITZ Type II?",
+      "answer": "In the ischemia of AUN, there is intermittent conduction blockage."
+    },
+    {
+      "question": "What is the ratio of conduction established in MOBITZ Type II?",
+      "answer": "A 2:1 ratio of conduction is established, meaning for every two P-waves, there is one QRS wave."
+    },
+    {
+      "question": "What is the treatment for a hemodynamically unstable patient in MOBITZ Type II?",
+      "answer": "The treatment for a hemodynamically unstable patient in MOBITZ Type II is pacing, often via a pacemaker."
+    },
+    {
+      "question": "What happens during the complete failure of conduction?",
+      "answer": "During a complete failure of conduction, none of the impulse reaches, leading to the generation of their own Ectopic pacemaker below B.O.H."
+    }
+  ],
+  "page_36": [
+    {
+      "question": "What is the heart rate with SUPRA Ventricular tachyarrythmia?",
+      "answer": "In SUPRA Ventricular tachyarrythmia, the heart rate is greater than 100/min, indicated by an R-R interval less than 15 mm."
+    },
+    {
+      "question": "What is the atrial rate in SUPRA Ventricular Tachyarythmia?",
+      "answer": "In SUPRA Ventricular Tachyarythmia, the atrial rate is greater than 100/min, indicated by a p-p interval less than 15mm."
+    },
+    {
+      "question": "What is the rate at SAN in the condition of SUPRA VENTRICULAR Tachyarythmia?",
+      "answer": "In SUPRA VENTRICULAR Tachyarythmia, the rate at SAN (Sinoatrial node) is between 100-250 per minute."
+    },
+    {
+      "question": "What happens in the event of Atrial Tachycardia?",
+      "answer": "In Atrial Tachycardia, there is abnormal P-wave morphology and the P-P interval may become abnormal, typically at 6-15mm."
+    },
+    {
+      "question": "What is the characteristic of atrial activity in Atrial Fibrillation?",
+      "answer": "In Atrial Fibrillation, there is asynchronous & ineffective depolarization of atrial fibers. The heart rate is irregular, p-wave rate is more than 350/min, and RR interval is variable."
+    }
+  ],
+  "page_37": [
+    {
+      "question": "What is Torsades de pointes and what causes it?",
+      "answer": "Torsades de pointes is a condition characterized by shifting sinusoidal waveforms on an ECG and can progress to ventricular fibrillation. A long QT interval predisposes to torsades de pointes, and it is often caused by certain drugs, low potassium levels, and congenital abnormalities."
+    },
+    {
+      "question": "Which types of drugs can induce a long QT interval, putting one at risk for Torsades de pointes?",
+      "answer": "Drugs that can induce a long QT interval include certain antiarrhythmics (class IA, III), antibiotics (such as macrolides and fluoroquinolones), antipsychotics (like haloperidol and ziprasidone), antidepressants (especially TCAs), antiemetics (e.g., ondansetron), and antifungals (like azoles)."
+    },
+    {
+      "question": "What are Ventricular Tachy-arrythmias?",
+      "answer": "Ventricular Tachy-arrythmias are a group of conditions featured by a rapid heart rate that starts from the bottom chambers of the heart. They can take a few forms, including tachycardia sputter and ventricular fibrillation. These arrhythmias are characterized by certain aspects such as ectopic below the bundle of His, wide QRS complex, and rapid ventricular ectopics at a rate >250/min."
+    },
+    {
+      "question": "What is the treatment for Torsades de pointes?",
+      "answer": "Treatment for Torsades de pointes includes magnesium sulfate, potential correction of electrolyte imbalances, and in some cases, a temporary pacemaker. In a situation of cardiac arrest due to Torsades de pointes, cardiopulmonary resuscitation (CPR) and defibrillation may be required immediately."
+    },
+    {
+      "question": "What differentiates Monomorphic Tachycardia from Polymorphic Tachycardia?",
+      "answer": "Monomorphic Tachycardia and Polymorphic Tachycardia differ based on the morphology of the QRS complexes. In Monomorphic Tachycardia, all QRS complexes have the same shape suggesting the ectopic activity stems from a single site. In Polymorphic Tachycardia, the QRS complexes vary in shape, indicating multiple ectopic sites."
+    }
+  ],
+  "page_38": [
+    {
+      "question": "What are the six parameters assessed in an ECHO Cardiogram?",
+      "answer": "The parameters are: (1) Situs or position, (2) Chambers, (3) Septum, (4) Values, (5) misc., (6) Structure of the heart"
+    },
+    {
+      "question": "What is the normal Systolic function of ventricles measured by E.F. (Ejection Fraction)?",
+      "answer": "The normal Systolic function of ventricles measured by Ejection Fraction (E.F.) is between 60-70%."
+    },
+    {
+      "question": "Why is Transthoracic ECHO preferred as the first screening method?",
+      "answer": "Transthoracic ECHO is preferred because it is a noninvasive method with no exposure to radiation. The USG probe used is simply placed on the chest wall."
+    },
+    {
+      "question": "What is the DIASTOLIC function measurement commonly measured in terms of?",
+      "answer": "The Diastolic function measurement is commonly measured in terms of the E/A ratio related to early passive filling and kick & compliance of Ums."
+    },
+    {
+      "question": "What are some specific instances where Trans Esophageal ECHO might be used?",
+      "answer": "Specific indications for Trans Esophageal ECHO include: confirming existence of LA defects, aortic defects or dissections, pre-op assessment of mitral and aortic valves, suspicion of infective endocarditis (to look for vegetation), patients with complications to look for infiltrative disorders, and for evaluation of a cardiac prosthesis."
+    }
+  ],
+  "page_39": [],
+  "page_40": [
+    {
+      "question": "What is the function of the pericardium?",
+      "answer": "The pericardium serves several functions. It protects the heart, prevents the heart from excessive stretching, provides the the lubrication for the heart to rotate, and it also helps to insulate the heart from other organs."
+    },
+    {
+      "question": "What are the layers of the pericardium?",
+      "answer": "The pericardium has three layers: the fibrous pericardium, the parietal layer of the serous pericardium, and the visceral layer of the serous pericardium."
+    },
+    {
+      "question": "What is the pericardial sinus?",
+      "answer": "The pericardial sinus is a space within the pericardium located behind the base of the heart and lies within the venous sleeve of pericardial reflection. It includes a Transverse Sinus and an Oblique Sinus."
+    },
+    {
+      "question": "What is the role of pericardial fluid?",
+      "answer": "Pericardial fluid is contained in the pericardial cavity between the parietal and visceral layers of the pericardium and plays a vital role in reducing the friction between the pericardium and the heart during cardiac motion."
+    },
+    {
+      "question": "What is the effect of inspiration on the filling of the heart?",
+      "answer": "During inspiration, there is a fall in intra thoracic pressure. This is transmitted to the cardiac structures, leading to an increase in venous return to the heart. This increases the right sided filling while left sided filling remains unchanged, leading to bowing of the septum from right to left, reducing the left sided cardiac output."
+    }
+  ],
+  "page_41": [
+    {
+      "question": "What are some common causes of acute pericarditis?",
+      "answer": "Some common causes of acute pericarditis include infection, particularly by the Coxsackie virus, autoimmune conditions, trauma, and certain drugs. Other causes could include bacterial or fungal infections, Whipple's disease, post-myocardial infarction conditions, and aortic dissection."
+    },
+    {
+      "question": "What are the common symptoms of acute pericarditis?",
+      "answer": "The common symptoms of pericarditis include chest pain, which gets worse with swallowing or breathing. The pain is typically sharp or needle-like and may radiate to the neck. Other symptoms could include shortness of breath, fatigue, rapid heartbeat, and a low-grade fever."
+    },
+    {
+      "question": "What typical ECG changes are noted in acute pericarditis?",
+      "answer": "Typical ECG changes in pericarditis include PR Segment depression, ST Elevation, and T-wave inversion. There might also be global ST elevation \u2014 this is the most specific sign of pericarditis."
+    },
+    {
+      "question": "What is Dressler's syndrome?",
+      "answer": "Dressler's syndrome is a late manifestation of pericarditis that typically occurs a few weeks to a few months after a myocardial infarction. Its treatment often involves anti-inflammatory drugs such as NSAIDs."
+    },
+    {
+      "question": "What are the potential complications of acute pericarditis?",
+      "answer": "Potential complications of acute pericarditis could include pericardial effusion and cardiac tamponade, as well as fibrosis of pericardium."
+    }
+  ],
+  "page_42": [
+    {
+      "question": "What are the features of a cardiac tamponade?",
+      "answer": "A cardiac tamponade is an acute complication of massive or rapidly filling pericardial effusion, typically idiopathic or neoplastic in origin. It is characterized by an increase in filling pressure, resulting in a reduction in heart filling during diastole. Symptoms can include chest pain, shortness of breath, and, in severe cases, circulatory shock."
+    },
+    {
+      "question": "What are the indicators of constrictive pericarditis?",
+      "answer": "Constrictive pericarditis is a chronic complication of acute pericarditis. It results in a 'rock-like', fibrotic, and thickened pericardium with adhesions. This condition interferes with the heart\u2019s normal filling and expansion ability, leading to heart failure. Symptoms may include swelling, fatigue, and shortness of breath."
+    },
+    {
+      "question": "What is Beck's triad and what condition is it associated with?",
+      "answer": "Beck's triad is a set of symptoms including low blood pressure, distended neck veins, and distant, muffled heart sounds. It is commonly associated with cardiac tamponade."
+    },
+    {
+      "question": "What are the key findings in an ECG of a person with constrictive pericarditis?",
+      "answer": "Some common ECG findings in constrictive pericarditis may include low voltage QRS complexes and electrical alternans, a condition in which the QRS complex height varies from beat to beat."
+    },
+    {
+      "question": "What is the best approach to prevent constrictive pericarditis?",
+      "answer": "The best approach to prevent constrictive pericarditis is elective pericardial stripping, which is done after intensive medication therapy. If heart failure occurs, the prognosis tends to be poor."
+    }
+  ],
+  "page_43": [
+    {
+      "question": "What is the definition of cardiomyopathies?",
+      "answer": "Cardiomyopathies refer to a dysfunction of mechanical/electrical myocardium leading conditions."
+    },
+    {
+      "question": "What are some of the types of cardiomyopathies?",
+      "answer": "Some types of cardiomyopathies include Dilated cardiomyopathy, Hypertrophic cardiomyopathy, and Restrictive cardiomyopathy."
+    },
+    {
+      "question": "What is dilated cardiomyopathy?",
+      "answer": "Dilated cardiomyopathy is a condition where the heart's ability to pump blood is decreased because the heart's main pumping chamber, the left ventricle, is enlarged and weakened."
+    },
+    {
+      "question": "What is hypertrophic cardiomyopathy?",
+      "answer": "Hypertrophic cardiomyopathy is a condition where the heart muscle becomes abnormally thick, making it harder for the heart to pump blood."
+    },
+    {
+      "question": "What is restrictive cardiomyopathy?",
+      "answer": "Restrictive cardiomyopathy is a condition where the ventricles of the heart become rigid, because of abnormal tissue such as scar tissue replacing the normal heart muscle, and this restricts the flow of blood into the ventricles."
+    }
+  ],
+  "page_44": [
+    {
+      "question": "What are the symptoms of Dilated Cardiomyopathy (Dilated CMP)?",
+      "answer": "The symptoms of Dilated Cardiomyopathy include congestive heart failure, systemic congestion, swelling, and symptoms similar to Left ventricular failure such as dyspnoea, cough and fatigue."
+    },
+    {
+      "question": "What is the etiology of Dilated Cardiomyopathy?",
+      "answer": "Some of the causes of Dilated CMP include damage to the myocardium due to post-myocarditis conditions, genetic factors like transmittable monocytic cells, pulmonary congestion, infectious conditions like cytokine myocarditis, autoimmune malfunctions, drug-induced cardiomyopathy, and alcohol dependence."
+    },
+    {
+      "question": "What signs can be observed during the examination of a patient with Dilated CMP?",
+      "answer": "During examination, signs such as irregular pulse, pulmonary congestion, displacement of the heart's apex beat, diffuse soft heart sound S3, and presence of murmurs can be detected."
+    },
+    {
+      "question": "What are some of the possible treatments for Dilated Cardiomyopathy?",
+      "answer": "Treatments for Dilated CMP are mostly symptomatic and aim to treat the underlying cause. This can include cessation of alcohol, treating any infections, controlling autoimmune malfunctions, and treating congestive heart failure symptoms."
+    },
+    {
+      "question": "What is the role of Echocardiography (ECG) in diagnosing Dilated Cardiomyopathy?",
+      "answer": "Echocardiography can show a dilated heart with thin walls, global hypokinesia, indicating ineffective ventricular contraction. Additionally, Ejection Fraction below 40% can be detected along with functional mitral regurgitation murmur due to dilation of the left ventricle, and functional tricuspid regurgitation murmur due to dilation of the right ventricle."
+    }
+  ],
+  "page_45": [
+    {
+      "question": "What is the cause of primary Amyloidosis in the context of Restrictive CMP?",
+      "answer": "The cause of primary Amyloidosis is the protein multiple myeloma A protein, and a familial Amyloidosis could be due to an autosomal dominant mutation of Transthyretin protein in the liver."
+    },
+    {
+      "question": "What does Infiltration/fibrosis of myocardium affect in terms of cardiac function?",
+      "answer": "Infiltration or fibrosis of the myocardium affects Myocardial Compliance, including Diastolic filling and Systolic function."
+    },
+    {
+      "question": "What causes fibrosis in the myocardium?",
+      "answer": "Fibrosis in the myocardium can be caused by factors such as Scleroderma, past radiation exposure for mediastinal tumors, and certain types of diseases like Gaucher's disease."
+    },
+    {
+      "question": "What is Tafamidis used for in the treatment of Restrictive CMP?",
+      "answer": "Tafamidis is used to stabilize the ATTR protein in the treatment of Restrictive CMP."
+    },
+    {
+      "question": "What are the symptoms and signs of Restrictive cardiomyopathy?",
+      "answer": "Symptoms of Restrictive cardiomyopathy can include swelling, Ascites, hepatomegaly, Dyspnea on Exertion. It could also manifest signs such as an increased jugular venous pressure (JVP), biventricular failure, and an abnormal ECG or ECHO."
+    }
+  ],
+  "page_46": [
+    {
+      "question": "What are the common gene mutations leading to Hypertrophic Cardiomyopathy (HCM)?",
+      "answer": "Common gene mutations leading to HCM primarily arise in genes for cardiac sarcomere proteins such as beta-myosin heavy chain (35-50%), myosin-binding protein C (15-25%), cardiac troponin T (15-20%), and tropomyosin (<5%)."
+    },
+    {
+      "question": "What are some of the signs associated with Hypertrophic Cardiomyopathy?",
+      "answer": "Signs of Hypertrophic Cardiomyopathy include hyperdynamic apex, reverse split S1 present due to LV diastolic failure, and a double apical impulse due to SAM."
+    },
+    {
+      "question": "What maneuvers can increase or decrease the murmur of HCM?",
+      "answer": "Maneuvers that enhance the obstruction by decreasing venous return (e.g., sudden standing, Valsalva maneuver, amyl nitrate inhalation) increase the murmur of HCM. On the other hand, maneuvers that increase venous return (increasing right and left ventricular preload) like squatting, sitting, or leg raising increase the ventricular volume, thereby increasing murmur intensity."
+    },
+    {
+      "question": "What are the contraindicated drugs in HOCM?",
+      "answer": "Drugs that are contraindicated in Hypertrophic Obstructive Cardiomyopathy (HOCM) include Digoxin, nitrates, beta-agonists, and diuretics."
+    },
+    {
+      "question": "How is angina treated in Hypertrophic Obstructive Cardiomyopathy?",
+      "answer": "In HOCM, angina is a common symptom. However, nitrates, which are commonly used to treat angina, are contraindicated in HOCM. This condition is often managed with other cardiac medications."
+    }
+  ],
+  "page_47": [
+    {
+      "question": "What occurs in the heart due to increased Catecholamines?",
+      "answer": "Increased Catecholamines causes contraction in the heart."
+    },
+    {
+      "question": "What is a key symptom of Carvajal Syndrome?",
+      "answer": "A key symptom of Carvajal Syndrome is hyperkeratosis of palms/soles."
+    },
+    {
+      "question": "What is Armiodarone used for in cardiac treatment?",
+      "answer": "Amiodarone is used as a palliative treatment for cardiac conditions."
+    },
+    {
+      "question": "What is the 'Gold Standard' for diagnosing Yamaguchi and Takutsubo?",
+      "answer": "Ventriculography is the 'Gold Standard' for diagnosing Yamaguchi and Takutsubo."
+    },
+    {
+      "question": "What happens to the myocardium with increased demand?",
+      "answer": "Increased demand of the myocardium can lead to hypertrophy."
+    }
+  ],
+  "page_48": [
+    {
+      "question": "What is the definition of Acute Rheumatic fever?",
+      "answer": "Acute Rheumatic fever is an Immune Complex mediated disease following pharyngitis in Kids aged 5-15 years caused by Group A- Beta Hemolytic Streptococcus (BHS). It causes diffuse inflammation in connective tissues of various organs like heart, joints, CNS, blood vessels, and subcutaneous tissue."
+    },
+    {
+      "question": "What is the pathogenesis of acute rheumatic fever?",
+      "answer": "The Carbohydrate cell wall of the streptococcus cross reacts with valve tissue through a process known as antigenic mimicry, which may cause permanent damage to the heart valves. Molecular mimicry is defined as the theoretical possibility that sequence similarities between foreign and self-peptides are sufficient to result in the cross-activation of autoreactive T or B cells by pathogen-derived peptides."
+    },
+    {
+      "question": "What is typically seen in microscopic findings of acute rheumatic fever?",
+      "answer": "Microscopic findings of acute rheumatic fever may include granulomas, also known as Aschoff bodies, often seen in the interstitial sites. These bodies can be found in locations including the myocardium, endocardium and McCallum's patch. Findings also include lymphocytes, macrophages, and plasma cells."
+    },
+    {
+      "question": "What are the symptoms of Acute Rheumatic fever as per Jone's criteria?",
+      "answer": "Major criteria include inflammation in joints (arthritis), heart inflammation (carditis), skin nodules, red skin rashes known as erythema marginatum, and Sydenhams chorea, which is a disorder of the nervous system causing involuntary jerky movements. Minor criteria include arthritis, especially migratory polyarthritis involving large joints."
+    },
+    {
+      "question": "What is the incidence of Acute Rheumatic fever (ARF) in population and among school kids?",
+      "answer": "ARF affects more than 2 in 1 lakh school kids, and more than 1 in 1 thousand in the general population."
+    }
+  ],
+  "page_49": [
+    {
+      "question": "What are some examples of evidence of The Inflation in the last 45 days?",
+      "answer": "Elevated antibody or rising ASO or other streptococcal antibody, a positive throat culture, rapid antigen test for group A streptococcus, recent scarlet fever."
+    },
+    {
+      "question": "What are the two parts of Syndrome diagnostics?",
+      "answer": "The two parts of Syndrome diagnostics are Initial Episode and Recurrent Episode."
+    },
+    {
+      "question": "What is the treatment for Rheumatic fever without carditis?",
+      "answer": "The treatment for Rheumatic fever without carditis is prophylaxis for 5 years after the last attack or until the patient reaches 21 years of age (whichever is longer)."
+    },
+    {
+      "question": "What is the treatment for Rheumatic fever with persistent valvular disease, evident clinically or on echocardiography?",
+      "answer": "The treatment is prophylaxis for 10 years after the last attack or until the patient is 40 years old (whichever is longer). Sometimes lifelong prophylaxis is needed."
+    },
+    {
+      "question": "What is the treatment for ARF?",
+      "answer": "The treatment for ARF (Acute Rheumatic Fever) includes the injection of Benzathine Penicillin, with the dose varying depending on whether it's the initial ARF or recurrent ARF."
+    }
+  ],
+  "page_50": [
+    {
+      "question": "What is infective endocarditis?",
+      "answer": "Infective endocarditis is an infection of the inner layer of the heart, the endocardium. It usually occurs when bacteria, fungi or other germs from another part of your body, spread through your bloodstream and attach to damaged areas in your heart."
+    },
+    {
+      "question": "What leads to the formation of vegetations in Infective Endocarditis?",
+      "answer": "The infection on the endocardium can lead to the formation of vegetations. These vegetations are a mass of platelets, microbes, and clotted blood cells."
+    },
+    {
+      "question": "What is Non-Infective Endocarditis and how is it different from Infective Endocarditis?",
+      "answer": "Non-Infective Endocarditis, also known as nonbacterial thrombotic endocarditis, is a form of endocarditis in which vegetations occur without the presence of an infection. This is different from Infective Endocarditis, where the vegetations form due to a bacterial or fungal infection."
+    },
+    {
+      "question": "What causes Non-Infective Endocarditis?",
+      "answer": "Non-Infective Endocarditis is typically due to hypercoagulable states like cancer (especially mucin-producing adenocarcinomas) or autoimmune diseases (e.g., systemic lupus erythematosus). It can also occur after damage to the heart valves due to rheumatic heart disease."
+    },
+    {
+      "question": "What are the complications of Endocarditis?",
+      "answer": "Complications of Endocarditis include stroke, systemic emboli, heart failure, valvular insufficiency, or damage. Hematuria can also occur if the infection spreads to the kidneys."
+    }
+  ],
+  "page_51": [
+    {
+      "question": "What are the components of the aortic valve?",
+      "answer": "The components of the aortic valve include: 1) 3 Leaflets. 2) 3 Commissures. 3) 1 Annulus. 4) Chordae Tendonae. 5) Papillary muscle."
+    },
+    {
+      "question": "What is the surface AVCA of the aortic valve?",
+      "answer": "The surface AVCA of the aortic valve is 3-9 cm\u00b2."
+    },
+    {
+      "question": "What are the components of the mitral valve?",
+      "answer": "Components of mitral valve include two leaflets (an anterior leaflet and a posterior leaflet with three lobes), an anterior annulus, anteromedial commisure, posterolateral commisure, chordae tendinae, and papillary muscles."
+    },
+    {
+      "question": "What are the details of the papillary muscles?",
+      "answer": "There are two papillary muscles: Anterolateral, which has a dual blood supply, and Posteromedial, which is only supplied by the RCA. In the case of an inferior wall mi, rupture of the posteromedial papillary muscle can lead to acute mR."
+    },
+    {
+      "question": "What is the significance of the zone of coaptation in relation to the cardiac valves?",
+      "answer": "The zone of coaptation is the area where the valve leaflets come together and meet when the valve is closed. It's important for maintaining the integrity of the valve seal and preventing backflow or regurgitation of blood."
+    }
+  ],
+  "page_52": [
+    {
+      "question": "What is Aortic Stenosis?",
+      "answer": "Aortic Stenosis is a cardiac disorder where the heart's aortic valve narrows, restricting the blood flow from the left ventricle to the aorta and potentially hampering the blood flow to the rest of the body."
+    },
+    {
+      "question": "What are some symptoms of Aortic Stenosis?",
+      "answer": "Symptoms of Aortic Stenosis may include angina (chest pain), exertional syncope (fainting on effort), and dyspnea (difficulty breathing)."
+    },
+    {
+      "question": "What are the possible complications of Severe Aortic Stenosis?",
+      "answer": "Possible complications of Severe Aortic Stenosis include Left Ventricular Hypertrophy (LVH), where the muscles of the left ventricle thicken, strain circulation leading to ischemia (reduced blood supply), and symptoms of heart failure. Prognosis is generally poor for Severe AS."
+    },
+    {
+      "question": "How is Aortic Stenosis typically managed?",
+      "answer": "Management strategies for Aortic Stenosis include drug therapy (like anticoagulants), percutaneous aortic balloon valvuloplasty (a procedure that widens the aortic valve using a balloon-tipped catheter), and Transcatheter Aortic Valve Implantation or Replacement (TAVI/TAVR)"
+    },
+    {
+      "question": "What is a common method for diagnosing Aortic Stenosis?",
+      "answer": "Echocardiogram (ECHO) is commonly used to assess the severity of Aortic Stenosis. It can help evaluate the size and function of the heart, the condition of the heart valves, and the extent of damage caused by the stenosis."
+    }
+  ],
+  "page_53": [
+    {
+      "question": "What is a 'collapsing pulse' in the context of cardiac symptoms?",
+      "answer": "A 'collapsing pulse', also known as Corrigan's pulse, is characteristic of aortic regurgitation. It refers to a rapid and forceful pulse that rapidly descends or 'collapses' due to the quick runoff of blood back into the left ventricle through a regurgitant aortic valve."
+    },
+    {
+      "question": "What is the significance of 'Austin Flint murmur' in cardiac diagnosis?",
+      "answer": "An Austin Flint murmur is a type of heart murmur that might be heard in severe aortic regurgitation. The murmur arises from the interference caused by the regurgitant flow of blood and the flow to the mitral valve, and is generally considered as an indication of severe regurgitation."
+    },
+    {
+      "question": "What are some of the key signs of severe aortic regurgitation?",
+      "answer": "Key signs of severe aortic regurgitation may include a rapid and forceful pulse that rapidly descends, alternating flushing and blanching of the forehead (the 'lighthouse' sign), pulsatile retinal arteries (Becker's sign), a nodding head with each systole (DeMusset's sign), and the presence of a mid-diastolic Austin Flint murmur, amongst others."
+    },
+    {
+      "question": "What is indicated by an increase in left ventricular end-diastolic volume in patients with aortic regurgitation?",
+      "answer": "An increase in left ventricular end-diastolic volume (LVEDV) in patients with aortic regurgitation is indicative of volume overload in the left ventricle. This occurs as a result of the regurgitant flow of blood back into the left ventricle during diastole."
+    },
+    {
+      "question": "What is valvular aortic regurgitation?",
+      "answer": "Valvular aortic regurgitation refers to a situation where the aortic valve does not close properly, typically due to issues involving the aortic valve leaflets, such as those caused by congenital heart diseases or rheumatic heart disease. This leads to leakage or backflow of blood from the aorta (the largest artery in the body) back into the left ventricle of the heart."
+    }
+  ],
+  "page_54": [
+    {
+      "question": "What is mitral stenosis?",
+      "answer": "Mitral stenosis is a condition where the mitral valve in the heart narrows, obstructing blood flow from the lungs into the heart. This can cause symptoms such as shortness of breath, fatigue, and heart palpitations."
+    },
+    {
+      "question": "What are some causes of mitral stenosis?",
+      "answer": "Mitral stenosis can primarily be caused by Rheumatic Heart Disease (RHD), which accounts for 94% of cases. It may also be congenital, or caused by chronic infection or Autoimmune Rheumatic Fever (ARF). Certain drugs can also cause abnormalities of the heart valves."
+    },
+    {
+      "question": "What are some physical signs that a patient may have mitral stenosis?",
+      "answer": "Physical signs of mitral stenosis may include sound signatures such as a low pitched stenotic murmur and a loud first heart sound, if the valve is not calcified. In severe cases, a secondary murmur might also be heard. The heart's apex tap location might also change and one might also notice increased pulmonary artery pulsation."
+    },
+    {
+      "question": "What are some complications that might arise from mitral stenosis?",
+      "answer": "Complications from mitral stenosis can include the forming of a left atrium thrombus, pulmonary edema, pulmonary embolism, atrial fibrillation and severe pulmonary hypertension. Systemic embolism might also occur, if the patient also has an atrial septal defect."
+    },
+    {
+      "question": "What does the reference to 'Fish mouth appearance' in relation to mitral stenosis mean?",
+      "answer": "The 'Fish mouth appearance' is a term used to describe the look of the mitral valve in mitral stenosis when viewed via imaging - it appears narrow and constricted, similar to the mouth of a fish. This is a classic sign of mitral stenosis."
+    }
+  ],
+  "page_55": [
+    {
+      "question": "What are the four components of the Abascal Echocardiographic score?",
+      "answer": "The four components are Leaflet mobility, Leaflet thickness, Subvalvular thickening, and Leaflet calcification."
+    },
+    {
+      "question": "What are some investigations to identify Left atrial enlargement?",
+      "answer": "Investigations include CXR showing mitralisation of the heart, straightening of the left heart border, elevation of the left mainstem bronchus, evidence of mitral calcification, and pulmonary edema."
+    },
+    {
+      "question": "What is the significance of Kerley B lines in a CXR?",
+      "answer": "Kerley B lines are thin lines in the lungs that are perpendicular to the pleural surface and extend to it. They are a sign seen on CXR with interstitial pulmonary edema. They indicate thin linear pulmonary opacities."
+    },
+    {
+      "question": "How is the double contour of the right border of heart identified in a CXR?",
+      "answer": "The double contour of the right border of the heart, also known as the double right heart border, is seen on frontal CXR in the presence of left atrial enlargement. It occurs when the right side of the left atrium extends behind the right cardiac shadow, indenting the adjacent lung and forming its own distinct silhouette."
+    },
+    {
+      "question": "What are the indications for anticoagulation in mitral stenosis?",
+      "answer": "The indications for anticoagulation in mitral stenosis include Atrial fibrillation (persistent or paroxysmal), embolic events, the presence of a left atrial thrombus, a left atrial diameter greater than 55 mm, and spontaneous echo contrast."
+    }
+  ],
+  "page_56": [
+    {
+      "question": "What does 'loss of coaptation of mv. leaflets in systole' mean in the context of Acute MR?",
+      "answer": "In the context of Acute Mitral Regurgitation (MR), this phrase refers to the failure of the mitral valve leaflets to close properly during systole (the phase of the heartbeat when the heart muscle contracts). This improper closure allows blood to flow backward from the left ventricle into the left atrium, contributing to the symptoms of MR."
+    },
+    {
+      "question": "What are the physiological changes that occur during acute MR?",
+      "answer": "During Acute MR, normal or reduced compliance of the left atrium leads to a marked increase in LA pressure, potentially causing acute pulmonary edema. The Acute MR doesn't provide enough time for the left atrium to adapt to the regurgitant volume overload. As a result, left atrium, pulmonary venous, and pulmonary artery pressures significantly increase, often leading to acute pulmonary edema."
+    },
+    {
+      "question": "What happens to the blood in the left ventricle (LV) in patients with Mitral Regurgitation (MR)?",
+      "answer": "In patients with MR, some of the blood in the LV is pumped forward through the aortic valve (forward stroke volume), and some is forced backward through the incompetent mitral valve (regurgitant stroke volume). The amount of blood that flows forward is determined in part by the left ventricular afterload."
+    },
+    {
+      "question": "How does dilatation of the left atrium over time affect Mitral Regurgitation (MR)?",
+      "answer": "Over time in MR, valvular dysfunction allows for adaptive dilatation of the left atrium, thinning of its wall, and an accompanying increase in left atrium compliance. This adapation helps to buffer the regurgitant volume from the left ventricle, resulting in lower elevation of left atrium pressures compared to acute MR."
+    },
+    {
+      "question": "What are the possible symptoms of severe or decompensated Mitral Regurgitation (MR)?",
+      "answer": "In cases of severe or decompensated MR, the patient may be predominantly asymptomatic or experience on and off palpitations. However, if left ventricular failure occurs, the predominant symptom is typically dyspnea or difficulty breathing. A characteristic clinical sign in such cases is a pansystolic murmur during heart auscultation."
+    }
+  ],
+  "page_57": [
+    {
+      "question": "What is the etiology of MITRAC Value Prolapse?",
+      "answer": "The etiology of MITRAC Value Prolapse is a deficiency of type I collagen."
+    },
+    {
+      "question": "What is a symptom of MID to LATE SYSTOLE in MITRAC Value Prolapse?",
+      "answer": "A symptom in MID to LATE SYSTOLE of MITRAC Value Prolapse is that the patient may remain asymptomatic."
+    },
+    {
+      "question": "What are some common symptoms of MITRAC Value Prolapse?",
+      "answer": "Some common symptoms of MITRAC Value Prolapse include chest pain, palpitation, and an increase in the size of the cavity in mid to late systole."
+    },
+    {
+      "question": "What is a common treatment for severe MR in MITRAC Value Prolapse?",
+      "answer": "A common treatment for severe MR in MITRAC Value Prolapse is surgery."
+    },
+    {
+      "question": "What tests are used to investigate MITRAC Value Prolapse?",
+      "answer": "The tests used to investigate MITRAC Value Prolapse are ECG and ECHO."
+    }
+  ],
+  "page_58": [
+    {
+      "question": "What is a symptom of Sided valuuler HEARS diseases?",
+      "answer": "Symptom Savelling, fatigue."
+    },
+    {
+      "question": "What does MID diastolic mumus refer to?",
+      "answer": "A mid-diastolic murmur, a type of heart sound that can indicate a specific heart condition."
+    },
+    {
+      "question": "What is the 1\u00ba cause mentioned for tricuspid regurgitation?",
+      "answer": "Carcinoid syndrome that damages the tricuspid valve (T.V.)."
+    },
+    {
+      "question": "What does Carvallo sign indicate?",
+      "answer": "It is a sign that denotes an increase in the intensity of a tricuspid regurgitation murmur with inspiration."
+    },
+    {
+      "question": "What is a common treatment for conditions affecting the Pulmonary Area?",
+      "answer": "Percutaneous Balloon Valvotomy, a procedure to open a narrowed heart valve."
+    }
+  ],
+  "page_59": [
+    {
+      "question": "What does RCA supply in the heart's conduction system?",
+      "answer": "The RCA (Right Coronary Artery) supplies the SA node (Sinoatrial Node), AV node (Atrioventricular Node), and His Bundle, a majority of the time."
+    },
+    {
+      "question": "What do the SA Nodal branch of the Left Anterior Descending Artery supply?",
+      "answer": "The SA Nodal branch of the Left Anterior Descending Artery supplies the RA (Right Atrium) and part of the LA (Left Atrium)."
+    },
+    {
+      "question": "What does the Left Circumflex Artery supply?",
+      "answer": "The Left Circumflex Artery supplies most of LA (Left Atrium)."
+    },
+    {
+      "question": "What are the symptoms of Sinus bradyarrhythmia?",
+      "answer": "In the context of a RCA (Right Coronary Artery) related event causing posterior-basal infarct, symptoms may include sinus bradyarrhythmia due to SA Node involvement and heart blocks."
+    },
+    {
+      "question": "What types of infarcts are associated with an RCA (Right Coronary) involvement?",
+      "answer": "Infarcts associated with an RCA (Right Coronary Artery) involvement include posterior-basal infarcts with right ventricular (RV) involvement."
+    }
+  ],
+  "page_60": [
+    {
+      "question": "What is the effect of systole on coronary blood flow?",
+      "answer": "During systole, the open aortic valve partially blocks coronary blood flow and the coronary arteries are compressed by the contracting myocardium, which results in only 30% of coronory blood flow occurring during this phase."
+    },
+    {
+      "question": "When does most of the blood supply to the heart occur?",
+      "answer": "Most of the blood supply to the heart occurs during diastole, as the duration or length of diastole is a critical factor in determining coronary blood flow."
+    },
+    {
+      "question": "How does exercise affect coronary blood flow?",
+      "answer": "During exercise, the heart rate increases rapidly, reducing the time for coronary blood flow to occur during diastole. This necessitates an increased blood flow to meet the higher oxygen and nutrient demands of the heart cells."
+    },
+    {
+      "question": "What is the effect of stress and tachycardia on the coronary blood flow?",
+      "answer": "In times of stress and tachycardia, adenosine from ATP increases coronary blood flow rate by vasodilating coronary vessels. This enlarges the vessels, particularly during diastole, and increases blood flow up to five times the resting rate."
+    },
+    {
+      "question": "What is atherosclerosis and how does it affect coronary blood flow?",
+      "answer": "Atherosclerosis is a disease characterized by the buildup of cholesterol plaques in the heart's arteries. This can obstruct the coronary blood flow, leading to ischemia, infarction, and peripheral vascular disease."
+    }
+  ],
+  "page_61": [
+    {
+      "question": "What are some non-modifiable risk factors for atherosclerosis according to the Framingham Heart Study?",
+      "answer": "Age, sex, and family history of premature CAD (Coronary Artery Disease) are some non-modifiable risk factors."
+    },
+    {
+      "question": "What risk factor for atherosclerosis becomes equal for both sexes post-menopause?",
+      "answer": "The risk of developing atherosclerosis becomes equally possible for both sexes post-menopause."
+    },
+    {
+      "question": "What are some modifiable risk factors for atherosclerosis?",
+      "answer": "Smoking, dyslipidemia, poor diet, and lack of exercise are modifiable risk factors for atherosclerosis."
+    },
+    {
+      "question": "What is the LDL threshold that increases the risk of atherosclerosis?",
+      "answer": "An LDL level greater than 190 mg/dL increases the risk of atherosclerosis."
+    },
+    {
+      "question": "What is the process that occurs after the removal of endothelium?",
+      "answer": "After the removal of the endothelium, there's an exposure of the basement membrane and collagen leading to platelet adhesion. Platelet aggregation (sticking of more platelets onto adherent platelets) then forms a platelet plug."
+    }
+  ],
+  "page_62": [
+    {
+      "question": "What is Coronary Ostial Stenosis?",
+      "answer": "Coronary Ostial Stenosis is a condition where there is a narrowing or blockage (stenosis) of the coronary arteries at their origin, leading to reduced blood flow to the heart."
+    },
+    {
+      "question": "What is the consequence of Vasculitis of the aorta?",
+      "answer": "Vasculitis of the aorta can lead to an aortic dissection, where the inner layer of the aorta tears, and also can descend to the opening of the Coronary Artery, leading to stenosis."
+    },
+    {
+      "question": "What is an aortic dissection?",
+      "answer": "Aortic dissection is a serious condition in which there is a tear in the wall of the major artery carrying blood out of the heart (aorta). This can cause severe, sudden chest pain and possibly other life-threatening complications."
+    },
+    {
+      "question": "What is the Sinus of Valsalva?",
+      "answer": "The sinus of Valsalva are dilatations of the ascending aorta just above the aortic valve that function in ensuring effective blood flow through the aorta and into the major arteries."
+    },
+    {
+      "question": "What is the implication of a heavy meal in an Atherosclerotic patient?",
+      "answer": "In an Atherosclerotic patient, a heavy meal can lead to splanchnic vasodilation, causing the blood to rush to the gastrointestinal system and potentially lowering the pressure in the coronary arteries. This decreased coronary artery pressure may worsen perfusion and potentially lead to ischemia (lack of oxygen reaching the tissues)."
+    }
+  ],
+  "page_63": [
+    {
+      "question": "What is the definition of angina pectoris?",
+      "answer": "Angina pectoris is the medical term for chest pain or discomfort due to coronary heart disease. It occurs when the heart muscle doesn't get as much blood as it needs. This usually happens because one or more of the heart's arteries is narrowed or blocked. The duration of the pain can be from 15 seconds to 15 minutes."
+    },
+    {
+      "question": "What is considered to be 'typical' angina?",
+      "answer": "Typical angina, also known as angina pectoris, is characterized by a heavy or tight pain in the center of the chest. The pain can radiate to the arms, neck, jaw, back, or stomach. Angina is usually triggered by physical exertion, emotional stress, heavy meals, or cold weather. It is usually relieved by rest or medication."
+    },
+    {
+      "question": "What are the three types of angina?",
+      "answer": "The three types of angina are stable angina, unstable angina, and Prinzmetal's angina. Stable angina occurs when the heart is working harder than usual, for instance, during physical exercise. Unstable angina is a condition in which your heart doesn't get enough blood flow and oxygen. It may lead to a heart attack. Prinzmetal's angina is caused by a spasm in the coronary arteries."
+    },
+    {
+      "question": "What is Levine's sign?",
+      "answer": "Levine's sign is a classic sign of angina pectoris, in which the patient clenches their fist over the sternum to indicate the site and type of pain they are experiencing."
+    },
+    {
+      "question": "How do Nitrates help alleviate anginal pain?",
+      "answer": "Nitrates alleviate anginal pain by causing venodilation which decreases venous return and preload, and arteriodilation which decreases total peripheral resistance (TPR) or afterload. This reduces the workload and oxygen demand of the heart, thus relieving anginal pain."
+    }
+  ],
+  "page_64": [
+    {
+      "question": "What is the Target Heart Rate for a patient during exercise?",
+      "answer": "The target heart rate is 85% of the patient\u2019s maximum possible heart rate, factoring in their age."
+    },
+    {
+      "question": "What does a positive stress test indicate for low-risk patients?",
+      "answer": "A positive stress test in low-risk patients for Coronary Artery Disease (CAD) is likely to be a false positive."
+    },
+    {
+      "question": "What does a negative stress test indicate for high-risk patients?",
+      "answer": "A negative test result in high-risk patients is likely to be a false negative."
+    },
+    {
+      "question": "What is the purpose of using pharmacological agents in a stress test?",
+      "answer": "Pharmacological agents are used in stress tests to mimic the effect of exercise on the heart, if the patient is unable to physically exercise."
+    },
+    {
+      "question": "What role does Adenosine and its synthetic analogs play?",
+      "answer": "Adenosine and its synthetic analogs stimulate adenosine A2A receptors on vascular smooth muscle cells, this causes coronary vasodilation and increased myocardial blood flow."
+    }
+  ],
+  "page_65": [
+    {
+      "question": "What is an Angiogram?",
+      "answer": "An Angiogram is a diagnostic procedure that is considered the gold standard in detecting the anatomic location of blockage in the coronary arteries. It is the most accurate test for diagnosing significant Coronary Artery Disease (CAD) and critical stenosis, which is defined as a blockage of more than 70%. This procedure is typically performed on patients who continue to experience angina despite optimal medical management."
+    },
+    {
+      "question": "What does a TIMI score help determine?",
+      "answer": "A TIMI score is used to assess the risk of coronary artery disease (CAD). Factors such as age above 65, risk factors for CAD, known CAD with at least 50% stenosis, aspirin use or resistance, severe angina, and ST segment deviation form the parameters of the TIMI score. The score ranges from 0-4 and each factor adds one point. The more points a patient has, the higher their risk."
+    },
+    {
+      "question": "What is the GRACE ACS Risk Calculator?",
+      "answer": "The GRACE ACS Risk Calculator, available as an app for iPhone and Android, is a tool used to decide if a patient has ischemic heart disease. Using a variety of data inputs, it calculates the patient's risk of having acute coronary syndrome (ACS)."
+    },
+    {
+      "question": "What is the ELECTRON Beat C.T. Scan (EBCT)?",
+      "answer": "The ELECTRON Beat C.T. Scan (EBCT) is a Cardiac Computed Tomography scan that includes 30-40 contiguous slice obtained at 3mm intervals down the heart to include the entire coronary tree. The Agatston score, which measure the density of calcium (Hounsfield Units) and the volume of calcified area, is derived from this test. Higher scores indicate higher risk of coronary heart disease."
+    },
+    {
+      "question": "What are the key principles of managing coronary disease?",
+      "answer": "Some general principles for the management of coronary disease include controlling risk factors for atherosclerosis such as managing diabetes, hypertension, and obesity, reducing symptoms with medications like Aspirin, Statins, Beta-blockers, and adhering to lifestyle changes such as a healthy diet like the DASH diet and quitting smoking. If these do not work, surgical or PCI revascularisation procedures may be considered."
+    }
+  ],
+  "page_66": [
+    {
+      "question": "What changes are observed in mitochondria during ischemia?",
+      "answer": "During ischemia, mitochondria swell up."
+    },
+    {
+      "question": "What are the changes observed in myofibrils during ischemia?",
+      "answer": "During ischemia, myofibrils undergo relaxation."
+    },
+    {
+      "question": "What happens to glycogen granules during ischemic injury?",
+      "answer": "During ischemic injury, there's a disappearance of glycogen granules."
+    },
+    {
+      "question": "What is meant by 'subendocardial ischemia'?",
+      "answer": "Subendocardial ischemia refers to a type of ischemia where the innermost part of the heart wall is affected."
+    },
+    {
+      "question": "What occurs if ischemia prolongs for 20-30 minutes?",
+      "answer": "If ischemia prolongs for 20-30 minutes, it can lead to irreversible changes."
+    }
+  ],
+  "page_67": [
+    {
+      "question": "What happens to the tissue slices in a solution of Triphenyltetrazolium Chloride?",
+      "answer": "This gross histochemical stain imparts a brick red colour to intact, non-infarcted myocardium where Lactate Dehydrogenase (LDH) activity is preserved. The infarct area appears as a pale, unstained zone."
+    },
+    {
+      "question": "What are the changes in the myocardium after an infarct within 12-24 hours?",
+      "answer": "After 12 hours, grossly, there is dark mottling. Within 12-24 hours, there are early light morphological changes, including cell death and inflammation. There is also increased Lactic acid due to ischemia."
+    },
+    {
+      "question": "What happens to the dead tissue after an infarct within 7-10 days?",
+      "answer": "The dead myocytes are cleared up by macrophages. Fibrosis has not started yet. Fibroblasts, in response to cytokines and chemokines, come near the infarct and are converted to myofibroblasts. Additionally, the extracellular matrix gets laid down in the infarct as fibroblasts proliferate and synthesize collagen."
+    },
+    {
+      "question": "What happens when necrosis takes place in the myocardium?",
+      "answer": "Necrosis is a series of morphological changes in a lethally injured cell. This includes cell death, ischemia, increased Lactic acid and eventual fibrosis. If reperfusion is done, post-neurosis, intra-infarct hemorrhage may occur."
+    },
+    {
+      "question": "What happens to the blood vessels in the myocardium after an infarct within 2-8 weeks?",
+      "answer": "Increased collagen deposition leads to retraction of fibrous tissue, causing compression of blood vessels. After two months, scarring is completed, resulting in a dense collagenous scar."
+    }
+  ],
+  "page_68": [
+    {
+      "question": "What is Reperfusion?",
+      "answer": "It is the process in which blood flow is re-established to the infarcted area. The microvasculature around the infarct, which has already undergone injury due to ischemia, leads to leaking of blood contents into the infarct."
+    },
+    {
+      "question": "What are the possible causes of Reperfusion induced cardiac complications?",
+      "answer": "Reperfusion may induce microvascular injury in the form of endothelial swelling that occludes capillaries and may limit the reperfusion of critically injured myocardium. It may also lead to increased infiltration of neutrophils that induce further inflammation-mediated injury and generation of reactive oxygen species by incomplete reduction of O2 by damaged mitochondria. It can also lead to autonomic fixing of individual myocytes which can lead to Ventricular fibrillation."
+    },
+    {
+      "question": "What is the 'No Reflow' phenomenon in the context of Reperfusion?",
+      "answer": "The 'No Reflow' phenomenon refers to the condition when reperfusion may induce microvascular injury in the form of endothelial swelling that occludes capillaries and limits the reperfusion of critically injured myocardium."
+    },
+    {
+      "question": "What is a 'Stunned Myocardium'?",
+      "answer": "A Stunned Myocardium refers to post-ischemic ventricular dysfunction of reperfused myocardial cells that are salvaged by reperfusion but regain their function after a delay of hours or even days."
+    },
+    {
+      "question": "How is Myocardial hibernation different from Stunned myocardium?",
+      "answer": "Myocardial hibernation occurs when the myocardium is subjected to chronic, sublethal ischemia which may make it enter into a state of lowered metabolism and function. This is different from Stunned Myocardium, which is post-ischemic ventricular dysfunction where reperfused myocardial cells that are salvaged by reperfusion regain their function after a delay."
+    }
+  ],
+  "page_69": [
+    {
+      "question": "What is the significance of ST depression in NSTEMI?",
+      "answer": "ST depression in NSTEMI indicates myocardial ischaemia or injury."
+    },
+    {
+      "question": "What is the importance of T wave changes in relation to an electrocardiogram (ECG)?",
+      "answer": "Changes in the T wave are important indicators of cardiac events on an ECG. In this case, a T wave less than 5mm in limb leads and less than 10mm in chest leads is suggestive of certain cardiac events or ailments."
+    },
+    {
+      "question": "What does the absence of an r-wave signify?",
+      "answer": "The absence of an r-wave on an ECG can indicate a significant myocardial infarction (heart attack)."
+    },
+    {
+      "question": "What does hyperacute F manus mean?",
+      "answer": "Hyperacute F manus typically refers to F wave changes on an EKG that are an early indication of ischemia, or lack of blood flow to the heart."
+    },
+    {
+      "question": "What is meant by 'significant m' with a measurement of '9: 31.5mm'?",
+      "answer": "In this context, 'significant m' with a measurement of '9: 31.5mm' is likely referring to a critical measurement on an ECG tracing that could indicate a significant cardiac event such as a heart attack."
+    }
+  ],
+  "page_70": [
+    {
+      "question": "What is the meaning of elevated cardiac biomarkers?",
+      "answer": "Elevated cardiac biomarkers refer to increased levels of specific substances in the blood that may indicate heart damage or disease."
+    },
+    {
+      "question": "What can be detected while performing an Echocardiography?",
+      "answer": "Echocardiography can detect dyskinetic movement of infarcted myocardium, papillary muscle rupture appearing as mitral valve regurgitation, and thrombus formation."
+    },
+    {
+      "question": "What is Type 4a Myocardial Infarction (MI)?",
+      "answer": "Type 4a MI is associated with PTCA (angioplasty)."
+    },
+    {
+      "question": "What is the purpose of using Technitium 99C in the Scintigraphic studies?",
+      "answer": "Technitium 99C is used in Scintigraphic studies as it binds to the Cat2 ion in infarcted areas to highlight them, a phenomenon called 'Hot Spot'."
+    },
+    {
+      "question": "Describe what Radionuclide angiography (Ventriculography) shows with and without a tracer?",
+      "answer": "Radionuclide angiography (Ventriculography) with a radioactive tracer fills up the ventricular cavity and shows contractility of the ventricle as blood ejects out. In absence of the tracer, the same would not be visible."
+    }
+  ],
+  "page_71": [
+    {
+      "question": "What are the consequences of an RCA Lesion and a Proximal LAD lesion?",
+      "answer": "RCA Lesion can cause Atrial arrhythmia while a Proximal LAD lesion can lead to Ventricular Tachycardia and I fibrillation."
+    },
+    {
+      "question": "What can cause contractile dysfunction and pulmonary edema?",
+      "answer": "Contractile Dysfunction can happen due to infarcted myocardium not contributing to contraction. Pulmonary edema can occur due to issues like Dyspnea, Orthopnea, and PND Basal Crackles."
+    },
+    {
+      "question": "What is the consequence of Cardiac Rupture Syndrome?",
+      "answer": "Cardiac Rupture Syndrome, most common between 3-7 days, can lead to extensive coagulative necrosis and softening of the infarct without fibrosis, especially seen in transmural infarcts."
+    },
+    {
+      "question": "What are the complications of Ventricular Tachycardia and Ventricular Fibrillation?",
+      "answer": "Ventricular Tachycardia and Ventricular Fibrillation can lead to major arrhythmias, heart failure, myocardial infarction extension, rupture of the ventricular septum, and other complications like rupture of papillary muscle, acute mitral valve regurgitation, pericarditis, etc."
+    },
+    {
+      "question": "What is Dressler Syndrome?",
+      "answer": "Dressler Syndrome is a type of pericarditis that can occur 2-4 weeks after a myocardial infarction. It is believed to be an immune system response after damage to heart tissue or to the heart's outer lining (pericardium)."
+    }
+  ],
+  "page_72": [
+    {
+      "question": "What is the initial treatment for ACS and NSTEMI?",
+      "answer": "The initial treatment involves pain management with NTG \u00b1 opioids (Morphine), supplemental oxygen if SpO\u2082 is less than 94%, and anticoagulation."
+    },
+    {
+      "question": "Which drugs are used for dual antiplatelet therapy in the management of ACS?",
+      "answer": "Aspirin along with PY2 inhibitors like Clopidogrel, Prasugrel, or Ticagrelor are used for dual antiplatelet therapy in the management of ACS."
+    },
+    {
+      "question": "When are statins used in ACS management, and what are their benefits?",
+      "answer": "Statins are used as early as possible in ACS management. They can reduce contrast-induced nephropathy, lower the likelihood of future ischemic events and reduce post-PCI myocardial infarctions."
+    },
+    {
+      "question": "When are ACE inhibitors or ARB's recommended in ACS management?",
+      "answer": "ACE inhibitors or ARB's are recommended for all patients of ACS, especially if they have heart failure (EF <40%)."
+    },
+    {
+      "question": "What is the advised strategy in case of high risk ACS patients (with a GRACE score of \u2265140)?",
+      "answer": "An invasive strategy involving a coronary angiogram is advised in high-risk ACS patients."
+    }
+  ],
+  "page_73": [
+    {
+      "question": "What is the recommended needle time for thrombolysis in the management of STEMI?",
+      "answer": "< 30 min"
+    },
+    {
+      "question": "Which event begins the timeline for STEMI management: definitive reperfusion or first medical contact?",
+      "answer": "First Medical Contact"
+    },
+    {
+      "question": "What are two drugs used for thrombolysis in the management of STEMI, according to the given list?",
+      "answer": "Strepto Kinase and Alte Plase"
+    },
+    {
+      "question": "What are three absolute contraindications for thrombolysis as listed in the provided content?",
+      "answer": "Intracranial hemorrhage, untreated neoplasm/aneurysm/AV malformation, and ischemic stroke <3 months"
+    },
+    {
+      "question": "What are indicators of successful thrombolysis in STEMI management?",
+      "answer": "Reduced chest pain and ST elevation resolved by 50% at 90 mins from start of Lysis"
+    }
+  ],
+  "page_74": [
+    {
+      "question": "What is the definition of Heart Failure?",
+      "answer": "Heart failure is a clinicopathological syndrome characterised by abnormal filling or featuring insufficient metabolic demand."
+    },
+    {
+      "question": "What is High Output Cardiac Failure?",
+      "answer": "High Output Cardiac Failure is a condition where the heart is not able to meet increased metabolic demands even with increased activity."
+    },
+    {
+      "question": "What is used for Heart Failure clinical diagnosis?",
+      "answer": "FRAMINGHAM CRITERIA is used for Heart Failure clinical diagnosis."
+    },
+    {
+      "question": "What is EF MUGA Scan?",
+      "answer": "EF MUGA Scan is a type of nuclear medicine test for imaging the heart's function."
+    },
+    {
+      "question": "What is Diastolic dysfunction?",
+      "answer": "Diastolic dysfunction is a condition where the heart's capacity to fill is impaired, leading to an increase in blood pressure within the heart itself."
+    }
+  ],
+  "page_75": [
+    {
+      "question": "What is the pathophysiology of right atrium hypertrophy?",
+      "answer": "Right Atrium Hypertrophy happens when the right atrium finds it difficult to empty into the right ventricle, leading to an overfill of the right ventricle (RV) and consequent right ventricular hypertrophy (RVH). The inability of the right atrium to empty fully can be due to factors like tricuspid valve regurgitation, right-sided heart failure, or pulmonary diseases."
+    },
+    {
+      "question": "What could be potential causes of systolic failure?",
+      "answer": "Systolic failure could be caused by common factors like dilated cardiomyopathy, late and untreated aortic stenosis, ischemic heart disease, and systemic hypertension. It is also associated with a decreased contractility, represented as ejection fraction less than 40%, and it could lead to an increased end-diastolic pressure."
+    },
+    {
+      "question": "What are the possible causes of diastolic failure?",
+      "answer": "Diastolic failure can occur in conditions where the left ventricle undergoes pathological pressure overload hypertrophy, such as in amyloidosis where deposition of amyloid protein leads to stiffening and decreased compliance of the heart. Early phase of Hypertrophic Obstructive Cardiomyopathy can also lead to diastolic failure."
+    },
+    {
+      "question": "What are the clinical features of backward failure in heart disease?",
+      "answer": "Backward failure in heart disease refers to the phenomena that occur due to damming up of blood in the pulmonary circulation in case of left-sided heart failure and systemic circulation in case of right-sided heart failure. The reason behind backward failure is the increased end-diastolic pressure in both systolic and diastolic failure."
+    },
+    {
+      "question": "What happens during forward failure in heart disease?",
+      "answer": "Forward failure in heart disease is characterized by decreased cardiac output, leading to decreased arterial and tissue perfusion. It can result in poor oxygenation of blood via the pulmonary artery due to right-sided heart failure and poor perfusion of body tissues via the systemic circulation. Left Ventricular Hypertrophy (LVH) is also a significant feature of forward failure."
+    }
+  ],
+  "page_76": [
+    {
+      "question": "What are the two syndromes contained within Acute Decompensated Heart Failure (CADHF)?",
+      "answer": "The two syndromes contained within CADHF are Pulmonary Edema (PCWP > 16 mm Hg) and Cardiogenic Shock (C. Index <2.1 L/mm\u00b2)."
+    },
+    {
+      "question": "What is the most common cause of Acute Decompensated Heart Failure (CADHF)?",
+      "answer": "The most common cause of Acute Decompensated Heart Failure (CADHF) is a massive myocardiac infarction (transmural)."
+    },
+    {
+      "question": "What is Cardiac Cachexia?",
+      "answer": "Cardiac Cachexia is a condition characterized by generalised wasting of lean mass (muscles) of the body due to heart failure. It involves reduced feeding and absorption (canorexia) and increased metabolism."
+    },
+    {
+      "question": "What are the potential effects of right ventricular failure?",
+      "answer": "The potential effects of right ventricular failure include pulmonary edema, systemic congestion, fatigue, exercise intolerance, and decreased blood oxygenation."
+    },
+    {
+      "question": "What are some causes for chronic heart failure?",
+      "answer": "Chronic heart failure may be caused by Ischemic Heart Disease (IHD), Hypertensive Heart Disease, and Alcohol-related heart disease among others."
+    }
+  ],
+  "page_77": [
+    {
+      "question": "What is a compensatory mechanism in the context of cardiac physiology?",
+      "answer": "A compensatory mechanism in cardiac physiology refers to a range of physiological responses designed to maintain homeostasis in the body in response to heart dysfunction. This includes mechanisms such as the Neavahumeral Mechanism, which is involved in the regulation of blood pressure."
+    },
+    {
+      "question": "What is the role of epinephrine in cardiac physiology?",
+      "answer": "Epinephrine, a hormone produced by the adrenal gland, increases heart rate, contractility and conduction velocity in cardiac physiology. This helps to increase blood pressure and deliver more oxygen to the body's cells in cases of stress or danger."
+    },
+    {
+      "question": "What is the effect of sympathetic adrenergic extern activation on the body?",
+      "answer": "Sympathetic Adrenergic Extern, or the activation of the body's sympathetic nervous system, leads to increased heart rate and stroke volume and redistribution of blood. This results in an increase in cardiac output, thus helping the body to respond to stress or danger."
+    },
+    {
+      "question": "What is the role of Renin in cardiac physiology?",
+      "answer": "Renin is an enzyme released from the kidneys. It starts a process that helps to control the body's salt and water balance, thus playing an important role in the regulation of blood pressure. This can lead to arteriolar constriction and decreased filtration rate in the kidneys."
+    },
+    {
+      "question": "What are the effects of the secretion of ANP and BNP in cardiac physiology?",
+      "answer": "ANP and BNP are hormones that help to reduce blood pressure by promoting vasodilation and increasing urine output. They also counteract the activation of the renin-angiotensin-aldosterone system, therefore playing a crucial role in maintaining electrolyte and fluid balance in the body."
+    }
+  ],
+  "page_78": [
+    {
+      "question": "What happens during ventricular remodelling?",
+      "answer": "Ventricular remodelling is the process where the structure of the heart changes due to the loss of myocardial cells (apoptosis) and fibrosis. This makes the myocardium weaker and diminishes its capacity to generate force, leading to a decline in pumping capacity and ultimately heart failure."
+    },
+    {
+      "question": "What is the process of decompensated cardiac failure?",
+      "answer": "In decompensated cardiac failure, the compensatory mechanisms, which initially increase EDV and blood volume for better heart function, start to worsen the condition. The ventricular cavity size increases decreasing its ability to generate pressure, resulting in a decline in cardiac output (CO). This contributes to progressive heart failure."
+    },
+    {
+      "question": "What is chronic excessive production in the context of heart failure?",
+      "answer": "Chronic excessive production refers to the prolonged overstimulation and overworking of the heart, which can lead to structural and functional changes in the heart muscle such as ventricular remodelling and unfavorably affect myocardial function."
+    },
+    {
+      "question": "How do diuretics and positive inotropic drugs therapy affect ventricular remodelling?",
+      "answer": "Diuretics reduce fluid overload by increasing urine output, thereby reducing the EDV. Positive inotropic drugs like Digitalis, Dobutamine, Dopamine increase the force of heart's contraction and improve myocardial function, which can help to prevent or reverse ventricular remodelling."
+    },
+    {
+      "question": "What happens to the heart in case of myocardial damage following infarction?",
+      "answer": "In the case of myocardial damage, such as that following a heart attack (infarction), the myocardium fails to contract adequately at a given volume, causing a decrease in cardiac output. This decreased function, if uncompensated, leads to heart failure."
+    }
+  ],
+  "page_79": [
+    {
+      "question": "What are some symptoms of Acute decompensated heart failure (ADHF)?",
+      "answer": "Some symptoms of ADHF include Fatigue, weakness, Exercise Intolerance, Congestion Symptoms such as Dysnea, Orthopnea and Paroxysmal nocturnal dyspnea, Edema, Bloating, Satiety, Altered mental status."
+    },
+    {
+      "question": "What are some signs of low output in Acute decompensated heart failure (ADHF)?",
+      "answer": "Some low output signs in ADHF include slower peripheral circulatory refill time, decreased urine output, and somnolence."
+    },
+    {
+      "question": "What are some investigations conducted for Acute decompensated heart failure (ADHF)?",
+      "answer": "Investigations conducted for ADHF include Chest X-ray (CXR), Ultrasound (USG), Brain Natriuretic Peptide (BNP), Echocardiogram (ECHO), etc."
+    },
+    {
+      "question": "What is a typical reading of PCWP (Pulmonary Capillary Wedge Pressure) in ADHF?",
+      "answer": "In Acute Decompensated Heart Failure, the PCWP is typically more than 18."
+    },
+    {
+      "question": "What does NATRIURESIS refer to?",
+      "answer": "NATRIURESIS refers to the excretion of sodium in the urine, typically induced by diuretics in the management of heart failure."
+    }
+  ],
+  "page_80": [
+    {
+      "question": "What is the role of Renin in the context of Chronic Heart Failure (CHF)?",
+      "answer": "Renin plays a crucial role in the Renin-Angiotensin-Aldosterone System (RAAS), a hormone system that regulates blood pressure and fluid balance. It's secreted by JG cells and promotes the conversion of angiotensinogen to angiotensin I. In CHF, the RAAS may be overactive, causing excessive fluid retention and contributing to symptoms of heart failure."
+    },
+    {
+      "question": "Which medication is frequently used in chronic heart failure to increase contractility?",
+      "answer": "Digitalis is frequently used in chronic heart failure to increase contractility. It acts by inhibiting the Na/K ATPase ion pump, which in turn increases calcium concentrations in the cardiac cells, enhancing the force of cardiac muscle contraction."
+    },
+    {
+      "question": "What are some common side effects of ACE inhibitors?",
+      "answer": "Some common side effects of ACE inhibitors, which are commonly used in the management of CHF, include a persistent dry cough and angioedema (swelling of skin and tissues under the skin, especially of the face and airways)."
+    },
+    {
+      "question": "What is the role of B-Blockers in treating Chronic Heart Failure?",
+      "answer": "Beta-blockers are used in the treatment of CHF to reduce the effects of sympathetic nervous system activity on the heart. This reduces the heart rate and force of heart contractions, which can decrease the heart's oxygen demand and improve its efficiency. Examples include Carvedilol, Bisoprolol, and Metoprolol."
+    },
+    {
+      "question": "What is the function of Vaptans in relation to CHF treatment?",
+      "answer": "Vaptans, or ADH antagonists, are a type of diuretic that work by blocking the action of vasopressin (anti-diuretic hormone) on the kidneys. This causes an increase in the amount of water excreted by the kidneys, reducing preload and fluid retention, which are common problems in CHF."
+    }
+  ],
+  "page_81": [
+    {
+      "question": "What is the AHA/ACC protocol for treating heart failure?",
+      "answer": "The AHA/ACC protocol for treating heart failure involves various medications and interventions which might include ACE Inhibitors, ARBs, B-Blockers, MRA, Gg, Ivabradine, H-ISDN, ARNI, Digonin, Colvaplan. Other interventions include lifestyle modifications such as exercise regime, stop smoking, and control of hypertension and diabetes."
+    },
+    {
+      "question": "What are the stages of heart failure in the AHA/ACC protocol?",
+      "answer": "The stages include STAGE\u24c7 for Asymptomatic, STAGE \u24b8 for Symptomatic, STAGE \u2461 for Refractory and other stages based on the severity of the symptoms and response to treatments"
+    },
+    {
+      "question": "What types of drugs are used in the AHA/ACC protocol for heart failure?",
+      "answer": "Various types of drugs are used including ACE Inhibitors, ARBs, B-Blockers, MRA, Gg, Ivabradine, H-ISDN, ARNI, Digonin, and Colvaplan. Use of certain drugs like diuretics is also recommended."
+    },
+    {
+      "question": "What lifestyle modifications are recommended in the AHA/ACC protocol for heart failure?",
+      "answer": "Recommended lifestyle modifications include stop smoking, routine exercise (90-150 min per week), controlling hypertension and diabetes."
+    },
+    {
+      "question": "What is the role of devices in the AHA/ACC protocol for heart failure?",
+      "answer": "Certain devices like the LVAD and devices for cardiac resynchronization therapy (CRT) may be used based on the stage and severity of the heart failure."
+    }
+  ],
+  "page_82": [
+    {
+      "question": "What is the ACC/AHA classification for elevated blood pressure?",
+      "answer": "The ACC/AHA classification for elevated blood pressure is 120-129 systolic and less than 80 diastolic."
+    },
+    {
+      "question": "What are the normal blood pressure limits for a healthy person according to the document?",
+      "answer": "The normal blood pressure for a healthy person is less than 120 systolic and less than 80 diastolic."
+    },
+    {
+      "question": "What classification of hypertension is given if someone is diagnosed with blood pressure above 135 mm Hg?",
+      "answer": "according to the document, a blood pressure reading over 135 mm Hg is classified as hypertension."
+    },
+    {
+      "question": "What is nocturnal hypertension?",
+      "answer": "Nocturnal hypertension refers to the condition where blood pressure increases during the night time. It's indicated as night blood pressure being greater than 10% of the daytime value."
+    },
+    {
+      "question": "What is white coat hypertension?",
+      "answer": "White coat hypertension is a condition where patients have high blood pressure readings when taken at a doctor's office but normal readings when taken at home."
+    }
+  ],
+  "page_83": [
+    {
+      "question": "What is 1\u00b0 Hyper Aldostenomism?",
+      "answer": "1\u00b0 Hyper Aldostenomism is a condition characterized by overproduction of aldosterone, often caused by an adrenal adenoma. It can lead to hypertension and hypokalemia."
+    },
+    {
+      "question": "What are the characteristics of Cushing's Syndrome?",
+      "answer": "Cushing's Syndrome is a condition caused by excessive cortisol production. It often causes symptoms such as central obesity, hypertension, and metabolic abnormalities."
+    },
+    {
+      "question": "What is meant by 'Thyroid HYPERTHYROIDISM'?",
+      "answer": "Thyroid HYPERTHYROIDISM refers to a condition where the thyroid gland is overactive and produces too much thyroid hormone. This can speed up the body's metabolism, causing rapid heart rate, weight loss, and high blood pressure."
+    },
+    {
+      "question": "What are the common symptoms of Hyper Calcemia (Hyper PTH)?",
+      "answer": "Hyper Calcemia, often caused by hyperparathyroidism (Hyper PTH), can lead to symptoms like frequent urination, kidney stones, bone pain, and fatigue."
+    },
+    {
+      "question": "Can you explain the effect of Polycythemia on hypertension?",
+      "answer": "Polycythemia is a condition characterized by an increase in the number of red blood cells. This can lead to increased blood viscosity and volume, thus increasing blood pressure."
+    }
+  ],
+  "page_84": [],
+  "page_85": [
+    {
+      "question": "What are some common causes of Aortic Dissection?",
+      "answer": "Some common causes of Aortic Dissection are Systemic Hypertension, Marfan's syndrome, Vascular Ehler Danlos, Weyn-Dietz syndrome, Coarctation of aorta, and Takayase disease."
+    },
+    {
+      "question": "What are the common sites of Intimal Tear in Aortic Dissection?",
+      "answer": "The most common site of Intimal Tear in Aortic Dissection is the Ascending aorta (proximal), specifically the right lateral part close to root."
+    },
+    {
+      "question": "What is the target blood pressure to manage Aortic Dissection?",
+      "answer": "The target blood pressure to manage Aortic Dissection is SBP less than 120."
+    },
+    {
+      "question": "What investigations are typically conducted for Aortic Dissection?",
+      "answer": "Angiography is typically conducted for Aortic Dissection, as it provides equal sensitivity and specificity."
+    },
+    {
+      "question": "What are the classifications for Aortic Dissection?",
+      "answer": "Aortic Dissection can be classified into Stanford Type A, which includes Ascending Aorta and requires surgery, and Stanford Type B, which involves the Descending Aorta, and surgery is usually not needed."
+    }
+  ],
+  "page_86": [],
+  "page_87": [
+    {
+      "question": "What does the Truncus Arteriosus give rise to?",
+      "answer": "The Truncus Arteriosus gives rise to the ascending aorta and pulmonary trunk."
+    },
+    {
+      "question": "What does the Trabeculated part of left and right ventricles give rise to?",
+      "answer": "The Trabeculated part of left and right ventricles arises from Bulbus cordis."
+    },
+    {
+      "question": "Which structure forms the superior vena cava (SVC) and Inferior vena cava (IVC)?",
+      "answer": "The Right common cardinal vein and right anterior cardinal vein form the Superior vena cava (SVC) and Inferior vena cava (IVC)."
+    },
+    {
+      "question": "What does the defect in left-right dynein lead to?",
+      "answer": "Defect in left-right dynein can lead to dextrocardia, as seen in Kartagener syndrome."
+    },
+    {
+      "question": "What structure divides the truncus arteriosus into the pulmonary trunk and aorta?",
+      "answer": "The spiral septum divides the truncus arteriosus into the pulmonary trunk and aorta."
+    }
+  ],
+  "page_88": [
+    {
+      "question": "What is the Anterior cardinal vein?",
+      "answer": "The anterior cardinal vein is a vessel found in the cardiovascular system during the developmental stage of an embryo. It forms part of venous drainage system and eventually gives rise to various parts of the adult circulatory system such as the internal jugular vein."
+    },
+    {
+      "question": "What is the Superior Vena Cava?",
+      "answer": "The Superior Vena Cava is one of the two main veins bringing de-oxygenated blood from the body back to the heart. It carries blood from the upper half of the body."
+    },
+    {
+      "question": "What is the role of the Dorsal aorta in a developing embryo?",
+      "answer": "The dorsal aorta is a major blood vessel formed during the early development of the embryo. It channels oxygenated blood from the heart to the rest of the body."
+    },
+    {
+      "question": "What is the Truncus arteriosus?",
+      "answer": "The Truncus Arteriosus is a structure in the embryonic heart from which the aorta and pulmonary trunk develop."
+    },
+    {
+      "question": "What is the role of the Umbilical artery in fetal development?",
+      "answer": "The Umbilical Artery in fetal development has the role of carrying deoxygenated, nutrient-depleted blood from the fetus to the placenta."
+    }
+  ],
+  "page_89": [
+    {
+      "question": "What does the 1st arch of the aorta give rise to in development?",
+      "answer": "The 1st arch of the aorta gives rise to the part of the maxillary artery, which is a branch of the external carotid artery."
+    },
+    {
+      "question": "Which structures are derived from the 2nd arch of the aorta during development?",
+      "answer": "The 2nd arch of the aorta develops into the stapedial artery and the hyoid artery."
+    },
+    {
+      "question": "What structures result from the development of the 3rd arch of the aorta?",
+      "answer": "The 3rd arch of the aorta develops into the common carotid artery and the proximal part of the internal carotid artery."
+    },
+    {
+      "question": "What are the results of the development of the 4th arch of the aorta?",
+      "answer": "The 4th arch of the aorta results in the aortic arch on the left and the proximal part of the right subclavian artery on the right."
+    },
+    {
+      "question": "What are the derivations of the 6th arch of the aorta during development?",
+      "answer": "The 6th arch of the aorta develops into the proximal part of the pulmonary arteries and, on the left only, the ductus arteriosus."
+    }
+  ],
+  "page_90": [
+    {
+      "question": "How does the process of atrial septation take place?",
+      "answer": "Atrial septation involves several steps: Septum primum grows toward endocardial cushions, narrowing ostium primum. Ostium secundum forms in septum primum due to cell death and ostium primum regresses. Septum secundum develops on the right side of septum primum as ostium secundum maintains right-to-left shunt. The septum secundum expands and covers most of ostium secundum. The remaining portion of septum primum forms the one-way valve of the foramen ovale."
+    },
+    {
+      "question": "What happens to the foramen ovale soon after birth?",
+      "answer": "Septum primum closes against septum secundum, sealing the foramen ovale soon after birth because of the increase in left atria pressure and decrease in right atria pressure."
+    },
+    {
+      "question": "When do septum secundum and septum primum fuse and what does this form?",
+      "answer": "During infancy/early childhood, septum secundum and septum primum fuse, forming the atrial septum."
+    },
+    {
+      "question": "What is patent foramen ovale and what can it lead to?",
+      "answer": "Patent foramen ovale is caused by the failure of normal septum primum and septum secundum to fuse after birth. This condition can lead to paradoxical emboli (venous thromboemboli entering the systemic arterial circulation through right-to-left shunt), as can occur in atrial septal defect (ASD)."
+    },
+    {
+      "question": "What are the three parts from below that contribute to the formation of interventricular septum?",
+      "answer": "The three parts that contribute to the formation of interventricular septum are the muscular part, the endocardial cushion, and the bulbar septum."
+    }
+  ],
+  "page_91": [
+    {
+      "question": "What is the source of gaseous exchange in fetal circulation before birth?",
+      "answer": "The placenta is the source of gaseous exchange in fetal circulation before birth."
+    },
+    {
+      "question": "What is the route of blood entering the fetus?",
+      "answer": "Blood enters the fetus through the umbilical vein, then it is conducted via the ductus venosus into the inferior vena cava (IVC), bypassing hepatic circulation."
+    },
+    {
+      "question": "Where is most of the highly oxygenated blood directed that reaches the heart via the IVC?",
+      "answer": "The highly oxygenated blood reaching the heart via the IVC is directed through the foramen ovale into the left atrium."
+    },
+    {
+      "question": "What happens to the deoxygenated blood from the SVC?",
+      "answer": "The deoxygenated blood from the superior vena cava (SVC) passes through the right atrium, right ventricle, main pulmonary artery, ductus arteriosus, and into the descending aorta. This shunt is due to high fetal pulmonary artery resistance."
+    },
+    {
+      "question": "When does the concentration of oxygen in the umbilical vein reach its highest?",
+      "answer": "The concentration of oxygen in the umbilical vein reaches its highest at 80%."
+    }
+  ],
+  "page_92": [
+    {
+      "question": "What is the prevalence of Congenital Heart Diseases (CHD)?",
+      "answer": "The prevalence of Congenital Heart Diseases is 6 to 8 per 1000 live births."
+    },
+    {
+      "question": "What are the most common types of Congenital Heart Diseases?",
+      "answer": "The most common CHD are ventricular Septal Defect (VSD) which is an acyanotic type, and Tetralogy of Fallot which is a cyanotic type."
+    },
+    {
+      "question": "Which conditions are associated with Down syndrome in relation to congenital heart diseases?",
+      "answer": "Down syndrome (trisomy 21) is associated with Endocardial cushion defect and Atrio-ventricular septal defect."
+    },
+    {
+      "question": "What conditions are associated with Congenital Rubella syndrome in terms of heart defects?",
+      "answer": "Conditions associated with Congenital Rubella syndrome include Patent ductus arteriosus, Pulmonary stenosis, and ventricular septal defect."
+    },
+    {
+      "question": "Which congenital heart diseases are associated with Central Cyanosis?",
+      "answer": "The conditions associated with Central Cyanosis include Truncus Arteriosus, Transposition of Great Arteries, Hypoplastic Left Heart Syndrome, Tetralogy of Fallot, Tricuspid atresia, Ebstein's anomaly, and Total Anomalous Pulmonary venous connection."
+    }
+  ],
+  "page_93": [
+    {
+      "question": "What is L-R shunt in relation to CHD?",
+      "answer": "L-R Shunt refers to a condition where the blood flows from the left side to the right side of the heart, which can cause certain types of congenital heart diseases like ventricular septal defect."
+    },
+    {
+      "question": "What does 'complete mixing of blood' imply in the context of CHD?",
+      "answer": "Complete mixing of blood refers to a situation where oxygenated and deoxygenated blood mix together, which usually happens due to certain types of congenital heart defects."
+    },
+    {
+      "question": "What is the most common type of CHD affecting the ventricular septal defect (VSD)?",
+      "answer": "The most common type of CHD affecting VSD is Perimembranous VSD."
+    },
+    {
+      "question": "Which type of VSD has a high likelihood of spontaneous closure?",
+      "answer": "The type of VSD with a high likelihood of spontaneous closure is Muscular VSD."
+    },
+    {
+      "question": "What could be the risk associated with Inlet VSD?",
+      "answer": "Inlet VSD is often associated with an increased risk of mitral regurgitation."
+    }
+  ],
+  "page_94": [
+    {
+      "question": "What is the outcome due to overloading in VSD?",
+      "answer": "Ventricular septal defect (VSD) overloading results in an enlargement of the left ventricle. This causes a downward and outward pushing of the apex, a characteristic feature seen in VSD."
+    },
+    {
+      "question": "What does cardiomegaly refer to?",
+      "answer": "Cardiomegaly refers to an enlarged heart, in this context, it's a term used to denote congestion or overloading of the heart."
+    },
+    {
+      "question": "How is the cardiothoracic ratio calculated?",
+      "answer": "The cardiothoracic ratio is calculated as (a+b)/c, where 'a+b' represents the longest cardiac diameter and 'c' represents the longest thoracic diameter."
+    },
+    {
+      "question": "What are some of the treatments mentioned in the management options for heart failure (H.F)?",
+      "answer": "The treatments options mentioned for heart failure include medications such as diuretics (e.g. furosemide), Digoxin, and strategies such as nutritional rehabilitation."
+    },
+    {
+      "question": "What does shunt reversal (R\u2192L) in the context of the described pathophysiology signify?",
+      "answer": "Shunt reversal in this context refers to the change in the direction of blood flow from the left-to-right (normal) to right-to-left. This reversal often occurs in advanced stages of heart conditions, when the right ventricular pressure exceeds that of the left, causing the blood to be shunted from the right to the left, resulting in decreased oxygenation, a condition referred to as hypoxia."
+    }
+  ],
+  "page_95": [
+    {
+      "question": "What types of Atrial Septal Defects (ASD) are there?",
+      "answer": "Ostium primum, ostium secundum, coronary sinus ASD, and sinus venosus ASD."
+    },
+    {
+      "question": "What can be seen on an ECG finding with a Ostium Secundum ASD?",
+      "answer": "Right atrial enlargement and right axis deviation."
+    },
+    {
+      "question": "How is a small, asymptomatic ASD typically managed?",
+      "answer": "Observation or 'wait and see' approach is typically the management for small, asymptomatic ASD."
+    },
+    {
+      "question": "What syndromes are associated with ASD?",
+      "answer": "ASD is associated with Pierre Robin Sequence, Thrombocytopenia Absent Radius bone, FETAL alcohol syndrome, Ehler Danlos syndrome, Down syndrome, Holt Oram syndrome, Ellis Van Crevalt syndrome, and Rubinstein Taybi syndrome."
+    },
+    {
+      "question": "What are the clinical features of a large ASD?",
+      "answer": "A large ASD typically presents with a delayed diastolic murmur, systolic murmur, and increased blood flow in the right heart during both inspiration and expiration."
+    }
+  ],
+  "page_96": [
+    {
+      "question": "What is Patent Ductus Arteriosus?",
+      "answer": "Patent Ductus Arteriosus (PDA) is a condition where the ductus arteriosus, an arterial conduit between the main pulmonary artery and the aorta, fails to close after birth."
+    },
+    {
+      "question": "What are some predisposing factors for Patent Ductus Arteriosus?",
+      "answer": "Prematurity is one of the most significant predisposing factors for Patent Ductus Arteriosus."
+    },
+    {
+      "question": "What are the clinical presentations of Patent Ductus Arteriosus in neonates and infants?",
+      "answer": "Clinical presentations may include Tachypnea, Tachycardia, failure to thrive, and pneumonia."
+    },
+    {
+      "question": "What medications are used for PDA closure?",
+      "answer": "Ibuprofen and Indomethacin are common medications used for PDA closure. Ibuprofen is often preferred due to its lower range of side effects, particularly Necrotising Enterocolitis."
+    },
+    {
+      "question": "What are the contraindications for medical closure of PDA?",
+      "answer": "Contraindications include a platelet count less than 80,000/cumm, serum creatinine 18 mg/dl or more, Nec/feed intolerance, and any active bleeding."
+    }
+  ],
+  "page_97": [
+    {
+      "question": "What does a 'Ground glass appearance' on x-ray usually indicate in terms of lung condition?",
+      "answer": "A 'Ground glass appearance' on an x-ray typically indicates Respiratory Distress Syndrome or Pulmonary velar Probenosis."
+    },
+    {
+      "question": "What is Rastelli's Surgery used for?",
+      "answer": "Rastelli's Surgery is used in the treatment of certain cardiac disorders, for diseases having Complete mixing of Right and Truncus blood."
+    },
+    {
+      "question": "What does Complete mixing of Right and Truncus blood refer to in Patent Pruncus Arteriosus disease?",
+      "answer": "It refers to a conotruncal disorder where there's an abnormal circulation because of the complete mixing of oxygenated (from the pulmonary vein) and deoxygenated blood (from the systemic circulation)."
+    },
+    {
+      "question": "What may cause a Tay Figure of 8 appearance or X-Ray white out kings in the lungs?",
+      "answer": "The Tay Figure of 8 appearance or X-Ray white out kings, also known as snowman or cottage loaf appearance, can indicate dilatation of the superior vena cava (svc)."
+    },
+    {
+      "question": "Why is Patent infusion is contraindicated in infra-cardiac type of Truncus arteriosus pulmonary venous connection (TRPVC)?",
+      "answer": "Patent infusion is contraindicated in infra-cardiac type of TRPVC because blood flows from the aorta into the pulmonary artery, increasing pulmonary congestion."
+    }
+  ],
+  "page_98": [
+    {
+      "question": "What is the characteristic X-Ray finding in DIGA (Transposition of Corr Arteries / Vevels)?",
+      "answer": "Instead of the pulmonary artery and aorta being positioned side by side, they appear positioned on top of each other in A-P view. This appears narrower than normal on X-Ray, like a string attached to an egg. This is referred to as the 'Egg on string' or 'Egg on side' appearance."
+    },
+    {
+      "question": "What is the Pulmonary congestion in relation to this condition?",
+      "answer": "Pulmonary congestion may occur as a result of the anatomical abnormalities and associated heart defects, leading to congestive heart failure in infants."
+    },
+    {
+      "question": "What is the presentation of DIGA (Transposition of Great Arteries) in HOMA and on the right side?",
+      "answer": "The specifics are not clear from the provided information, however, HOMA usually refers to Homeostatic Model Assessment which is a method used in calculating insulin resistance. Right side could be referring to right-sided heart defects found in transposition of great arteries."
+    },
+    {
+      "question": "What does the Balloon Atrial Septostomy or Rashkind procedure involve?",
+      "answer": "This procedure is done to create an opening between the upper heart chambers (atria) to improve oxygenation until a more definitive surgery can be done."
+    },
+    {
+      "question": "What is the purpose of administering a PGED analogue (Alprostadil) in management of this condition?",
+      "answer": "Alprostadil is used to keep the ductus arteriosus open, allowing mixing of blood and thus relieving the symptoms that may arise due to reduced oxygenation."
+    }
+  ],
+  "page_99": [
+    {
+      "question": "What is Co-Arctation of ADMIA (COA) in terms of CHD with ductus dependent Systemic Graubatan?",
+      "answer": "Co-Arctation of ADMIA (COA) refers to a narrowed medial wall of the Gorta, as per CHD with ductus dependent Systemic Graubatan. This typically involves conditions like severe COA and intermittent claudication of the lower limbs."
+    },
+    {
+      "question": "What is the recommended treatment for Co-Arctation of ADMIA (COA)?",
+      "answer": "Balloon angioplasty and stents are typically used to relieve the aortic narrowing in patients with Co-Arctation of ADMIA (COA)."
+    },
+    {
+      "question": "What is the meaning of CDOCK'S SIGN in CHD?",
+      "answer": "In CHD, CDOCK'S SIGN refers to the appearance of inferior rib notching in a patient with coarctation of the aorta, as seen on an X-Ray."
+    },
+    {
+      "question": "How does the body compensate for the narrowing of the aorta in Co-Arctation of ADMIA (COA)?",
+      "answer": "The body may form collaterals and the intercostal arteries may become prominent as a way to compensate for the narrowing of the aorta in Co-Arctation of ADMIA (COA). The size of the aorta may also alter leading to conditions like presternotic and post stenotic dilations."
+    },
+    {
+      "question": "What is Hypoplastic Left Heart Syndrome in CHD with ductus dependent Systemic Graubatan?",
+      "answer": "Hypoplastic Left Heart Syndrome in CHD with ductus dependent Systemic Graubatan involves conditions like atresia of the mitral valve and the presence of E-Sign and other indicative signs. Treatment options can include PGE Infusion patent ductus among others."
+    }
+  ],
+  "page_100": [
+    {
+      "question": "What is meant by 'atrialization of the right ventricle'?",
+      "answer": "Atrialization of the right ventricle refers to the downward displacement or prolapse of the tricuspid valve which results in part of the right ventricular volume becoming part of the atrium."
+    },
+    {
+      "question": "What happens during the cyanosis at time of birth or the neonatal period?",
+      "answer": "During the cyanosis at time of birth or the neonatal period, there is a blood overload in the left heart due to the regurgitation from the right ventricle and the atrialization of the right ventricle."
+    },
+    {
+      "question": "What does a 'box shaped heart' signify on an X-ray?",
+      "answer": "A 'box shaped heart' on an X-ray signifies that the right atrium (RA) is enlarged due to the regurgitation from the right ventricle and the atrialization of the right ventricle, which forms the right heart border and displaces laterally."
+    },
+    {
+      "question": "What is the purpose of the modified Blalock-Taussig Shunt procedure?",
+      "answer": "The purpose of the modified Blalock-Taussig Shunt procedure is to improve the pulmonary blood flow by directly connecting the superior vena cava (SVC) to the pulmonary artery, which prevents overloading of the left heart chambers and increases pulmonary blood flow."
+    },
+    {
+      "question": "What are the notable features of Wolff-Parkinson-White Syndrome (WPW Sx) in an electrocardiogram (ECG)?",
+      "answer": "The notable features of Wolff-Parkinson-White Syndrome (WPW Sx) in an electrocardiogram (ECG) include: a wide QRS complex that is over 0.08 seconds, a short PR interval, and S-waves."
+    }
+  ],
+  "page_101": [
+    {
+      "question": "What disease is considered as the most common Congenital Cyanotic and what are its components?",
+      "answer": "The disease known as the most common Congenital Cyanotic is TETRALOGY OF FALOT. Its components are the Pulmonary stumon's or RVOT obstruction, the RAH or Right to Left Shunt, Over-riding of the Aorta, and VSD."
+    },
+    {
+      "question": "What are some key features of TETRALOGY OF FALOT, such as the type of shunting and clinical manifestations?",
+      "answer": "TETRALOGY OF FALOT features RVOT obstruction, a large non-restrictive shunt, and mixing of blood leading to central cyanosis. Clinically, it might manifest as clubbing and heart disease in children, and in severe cases may result in pulmonary oxygenation complications."
+    },
+    {
+      "question": "What factors does the severity of TETRALOGY OF FALOT depend on?",
+      "answer": "The severity of TETRALOGY OF FALOT depends on the age of onset and degree of RVOT Obstruction. More severe cases may present immediately after birth and if there is an associated pulmonary atresia."
+    },
+    {
+      "question": "What is a cyanotic spell and when does it usually occur in children with TETRALOGY OF FALOT?",
+      "answer": "A cyanotic spell, also known as a 'Tet' spell or 'Blue' spell, is a sudden development of deep cyanosis. These spells usually occur during the first few months of life in children with mild TETRALOGY OF FALOT."
+    },
+    {
+      "question": "What are some treatments for cyanotic spells?",
+      "answer": "Treatments for cyanotic spells include increasing systemic resistance using vasoconstrictors, administering sodium bicarbonate for acidosis, providing supplemental oxygen, and using various medications such as morphine, ketamine, and beta-agonists."
+    }
+  ],
+  "page_102": [
+    {
+      "question": "What is a Precordial Bulge?",
+      "answer": "A precordial bulge is an outward protrusion of the chest wall in the area over the heart, often associated with certain heart diseases."
+    },
+    {
+      "question": "What does an Ejection Systolic murmur in the Pulmonary Area indicate?",
+      "answer": "This could be a sign of pulmonary stenosis, a condition where the pulmonary valve is too tight, or hypertrophy (thickening) of the right ventricle."
+    },
+    {
+      "question": "What is a tet spell?",
+      "answer": "A 'tet spell' is a sudden, severe cyanotic episode in infants with Tetralogy of Fallot. It may be triggered by crying, feeding, or defecation."
+    },
+    {
+      "question": "What is Compensatory Polycythemia?",
+      "answer": "Compensatory polycythemia occurs when there are more red blood cells in the bloodstream as the body's response to increase oxygen levels. It commonly occurs in individuals with heart defects."
+    },
+    {
+      "question": "What does a 'Coer en Sabot' or 'Boot Shaped Heart' indicate?",
+      "answer": "Coer en Sabot or 'Boot Shaped Heart' is commonly associated with Tetralogy of Fallot. It's named so because the abnormally shaped heart resembles a boot on an x-ray or ultrasound."
+    }
+  ],
+  "page_103": [
+    {
+      "question": "What is the main study focus of pharmacology?",
+      "answer": "Pharmacology primarily focuses on the study of how drugs interact with the biological systems of the body."
+    },
+    {
+      "question": "What are the key concepts of cardiac physiology?",
+      "answer": "Cardiac physiology mainly covers the functioning of the heart, which includes the study of the heart's mechanical, electrical, and chemical functions, and how they interact to provide blood flow to the body."
+    },
+    {
+      "question": "What is the importance of the conduction system in cardiac physiology?",
+      "answer": "The conduction system, including the sinoatrial node and the atrioventricular node, controls the heart rate by generating and conducting electrical impulses that make the heart contract and pump blood."
+    },
+    {
+      "question": "Can you mention the part that diagrams or charts play in cardiac physiology?",
+      "answer": "Diagrams and charts in cardiac physiology visually represent the complex processes, anatomy, and pathways of the heart, making it easier to understand these concepts. For example, the cardiac cycle can be represented as a diagram or a chart."
+    },
+    {
+      "question": "What is the application of pharmacology in understanding cardiac physiology?",
+      "answer": "Pharmacology helps us understand how certain drugs can alter or manipulate the functions of the heart, for instance, how beta-blockers can decrease heart rate, reduce blood pressure, and protect against heart attacks."
+    }
+  ],
+  "page_104": [
+    {
+      "question": "What is the basic functional unit of the heart?",
+      "answer": "The basic functional unit of the heart is the myocardial cell, also known as a cardiomyocyte."
+    },
+    {
+      "question": "What is the importance of the conduction system in the heart?",
+      "answer": "The conduction system is crucial as it ensures that the heart beats in a coordinated and effective manner, allowing blood to be pumped throughout the body."
+    },
+    {
+      "question": "What contents does page 104 highlight regarding cardiovascular physiology and conduction system?",
+      "answer": "Page 104 mainly discusses the basis of cardiac physiology and the details of the heart's conduction system, however, it does not explicitly mention any diagrams or charts."
+    },
+    {
+      "question": "How does the conduction system of the heart function?",
+      "answer": "The conduction system controls the heart rate, starting with the sinoatrial node ('SA node') which acts as the pacemaker. The electrical signal travels from the SA node through the atria, making them contract, and then reaches the atrioventricular node (AV node). From the AV node it goes down the bundle of His and into the Purkinje Fibres, causing the ventricles to contract."
+    },
+    {
+      "question": "What unique properties do cardiomyocytes possess?",
+      "answer": "Cardiomyocytes possess automaticity (ability to spontaneously trigger electrical impulses without being stimulated by other cells) and conductivity (ability to propagate the electrical impulse rapidly and efficiently across the heart)."
+    }
+  ],
+  "page_105": [
+    {
+      "question": "What are the basics of cardiac physiology?",
+      "answer": "Cardiac physiology involves the study of the heart's function, including how the heart pumps blood through the body, the heart's structure, electrical activity in the heart, and the systems that regulate heart rate and blood pressure."
+    },
+    {
+      "question": "What does the conduction system in the human heart include?",
+      "answer": "The conduction system includes the sinoatrial node, the atrioventricular node, atrioventricular bundle (bundle of His), the right and left bundle branches, and the Purkinje fibers."
+    },
+    {
+      "question": "What is the role of the sinoatrial node in the conduction system of the heart?",
+      "answer": "The sinoatrial node (SA node) is the natural pacemaker of the heart. It generates electrical impulses that trigger the heart to contract and pump blood."
+    },
+    {
+      "question": "What is the use of radiology in understanding the anatomy of the heart?",
+      "answer": "Radiology, including X-rays, MRIs, and CT scans, provides detailed images of the heart's structure, helping doctors diagnose and treat heart diseases and conditions."
+    },
+    {
+      "question": "What is the role of the atrioventricular bundle in the heart's conduction system?",
+      "answer": "The atrioventricular bundle, or bundle of His, carries the electrical impulses from the atrioventricular node into the bundle branches and then to the Purkinje fibers, coordinating the contraction of the ventricles."
+    }
+  ],
+  "page_106": [
+    {
+      "question": "What is the most posterior part of the heart and what condition can cause its enlargement?",
+      "answer": "The left atrium (LA) is the most posterior part of the heart. Mitral stenosis can lead to its enlargement."
+    },
+    {
+      "question": "What is the most anterior part of the heart and which part is most commonly injured in trauma?",
+      "answer": "The right ventricle (RV) is the most anterior part of the heart and is most commonly injured in trauma."
+    },
+    {
+      "question": "What is the shape of the heart and what are its borders?",
+      "answer": "The heart is trapezoidal. It has superior, right, left, and base borders."
+    },
+    {
+      "question": "What does the sternocostal surface (anterior surface) of the heart consist of?",
+      "answer": "The sternocostal surface comprises the right atrium, part of the right auricle, left auricle, right ventricle (2/3rd) and left ventricle (1/3rd)."
+    },
+    {
+      "question": "What is Ortner syndrome and what causes it?",
+      "answer": "Ortner syndrome is hoarseness caused by the compression of the left recurrent laryngeal nerve, a branch of the vagus nerve. This occurs due to the enlargement of the left atrium (LA), often in cases of mitral stenosis."
+    }
+  ],
+  "page_107": [
+    {
+      "question": "What are the main features of the right atrium?",
+      "answer": "The right atrium has a smooth septal wall and a rough body wall. It contains the SA-Node, Limbus of Fossa ovalis and the opening for the AV-Node. There are also Musculus picreatini that help guide the blood to the AV orifice."
+    },
+    {
+      "question": "What is the role of Tendon of Todaro in the heart?",
+      "answer": "The Tendon of Todaro is part of the conduction system of the heart and plays a role in the Triangle of Koch, which is a significant part of the heart's conduction system."
+    },
+    {
+      "question": "What does the right atrium of the heart receive?",
+      "answer": "The right atrium receives blood as it flows from the body and the lungs, which it then directs to the right ventricle."
+    },
+    {
+      "question": "What are the differences between the right and left ventricles?",
+      "answer": "The right ventricle has three papillary muscles and a moderator band, and is thin. The left ventricle, on the other hand, has two papillary muscles and no moderator band, and is thick."
+    },
+    {
+      "question": "What are Thebesian vessels in relation to the heart?",
+      "answer": "Thebesian vessels, also known as the venae cordis minimae, are small veins in the walls of all four heart chambers that drain directly into those chambers."
+    }
+  ],
+  "page_108": [
+    {
+      "question": "What areas of the heart does the PDA supply?",
+      "answer": "The Posterior Descending Artery (PDA) supplies the posterior 1/3 of the interventricular septum, the posterior 2/3 walls of the ventricles, and the posteromedial papillary muscle."
+    },
+    {
+      "question": "What areas of the heart are supplied by the LAD and its branches?",
+      "answer": "The Left Anterior Descending (LAD) and its branches supply the anterior 2/3 of the interventricular septum, the anterolateral papillary muscle, and the anterior surface of the left ventricle."
+    },
+    {
+      "question": "What happens if the LCA gets occluded between the ant-aortic sinus and the PT?",
+      "answer": "If the Left Coronary Artery (LCA) gets occluded between the ant-aortic sinus and the PT, it can cause sudden cardiac arrest."
+    },
+    {
+      "question": "What happens if there is an infarct in the areas of the heart supplied by the RCA?",
+      "answer": "If there is an infarct in the areas of the heart supplied by the Right Coronary Artery (RCA), it can cause nodal dysfunction, which includes bradycardia or heart block."
+    },
+    {
+      "question": "What is cardiac dominance?",
+      "answer": "Cardiac dominance refers to whether the Right Coronary Artery (RCA) or the Left Coronary Artery (LCA) gives rise to the Posterior Descending Artery (PDA), which further supplies the posterior part of the interventricular septum and the posteromedial papillary muscle."
+    }
+  ],
+  "page_109": [
+    {
+      "question": "What is the length of the venous Sinus mentioned as a tributary of the Coronary Sinus?",
+      "answer": "The venous Sinus is approximately 3cm long."
+    },
+    {
+      "question": "Where does the venous Sinus open in the Coronary Sinus system?",
+      "answer": "The venous Sinus opens in the smooth post wall of the right atrium."
+    },
+    {
+      "question": "Which vein is not a tributary of the coronary sinus?",
+      "answer": "The oblique vein of the left atrium is not a tributary of the coronary sinus."
+    },
+    {
+      "question": "Which artery does the Great Cardiac Vein accompany in the Coronary Sinus system?",
+      "answer": "The Great Cardiac Vein accompanies the anterior interventricular artery and circumflex artery."
+    },
+    {
+      "question": "Which artery does the small cardiac vein accompany in the Coronary Sinus system?",
+      "answer": "The small cardiac vein accompanies the right coronary artery."
+    }
+  ],
+  "page_110": []
+}
